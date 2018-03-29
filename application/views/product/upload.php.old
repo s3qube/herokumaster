@@ -1,0 +1,33 @@
+
+<table border="0" cellpadding="0" cellspacing="0" width="700" align="center">
+<tr><td>
+
+<object width="700" height="560" classid="clsid:8AD9C840-044E-11D1-B3E9-00805F499D93" codebase="http://java.sun.com/products/plugin/autodl/jinstall-1_4-windows-i586.cab#Version=1,4,2,0">
+
+    <param name="code" value="com.jscape.httpapplet.HttpAppletCore.class">
+    <param name="archive" value="<?= base_url(); ?>resources/httpapplet/httpapplet.jar">
+  
+    <param name="scriptable" value="true">
+    <param name="mayscript" value="yes">
+    <param name="name" value="httpapplet">
+    <comment>
+	<embed 
+            type="application/x-java-applet;version=1.4" \
+            code="com.jscape.httpapplet.HttpAppletCore.class" \
+            archive="<?= base_url(); ?>resources/httpapplet/httpapplet.jar" \
+           
+            name="httpapplet" \
+            scriptable="true" \
+            mayscript="yes" \
+            width="700" \
+            height="560" \
+		    pluginspage = "http://java.sun.com/products/plugin/index.html#download">
+		    <noembed>            
+            </noembed>
+
+	</embed>
+    </comment>
+</object>
+
+</tr></td>
+</table>

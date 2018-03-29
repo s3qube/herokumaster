@@ -1,0 +1,1 @@
+Artwork has been updated for <?= $product->property ?> - <?= $product->productname ?>

@@ -1,0 +1,5 @@
+
+RewriteEngine on
+
+RewriteCond $1 !^(index\.php|images|help|approvals|user_guide|resources|mySqlAdmin|awstats|robots\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]

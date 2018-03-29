@@ -1,0 +1,79 @@
+
+
+.calTable {
+	
+	
+	width:910px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #cccccc;
+	
+	
+}
+
+.calTable tr {
+	
+	
+
+}
+
+.calTable td {
+	background-color: #ffffff;
+	border: 1px solid #cccccc;	
+	width:50px;
+	padding:5px;
+	height:100px;
+	vertical-align: top;
+	
+}
+
+.calTable th {
+	
+	height:25px;
+	
+}
+
+.calCellContent {
+	
+	background-color: fuchsia;
+	
+}
+
+.catCat {
+	
+	padding:2px;
+	
+}
+
+.calCat1 {
+
+	background-color: aqua;	
+	
+}
+
+.calCat2 {
+	
+	background-color: fuchsia;
+	
+}
+
+.calCat3 {
+	
+	background-color:lime;
+	
+}
+
+.calCat4 {
+	
+	
+	background-color: silver;
+	
+}
+
+.calCat5 {
+	
+	background-color: olive;
+	
+	
+}
+

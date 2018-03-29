@@ -1,0 +1,39 @@
+							<table border="0" cellpadding="0" cellspacing="0">
+								<tr>
+									
+									<? if (checkPerms('view_products_tab')) { ?>
+										<? if ($this->opm->activeNav == 'products') { ?>
+											<td><a href="<?=base_url();?>search/doSearch"><img src="<?=base_url();?>resources/images/nav_products_over.gif" id="nav1_products" alt="products" width="67" height="10" border="0" class="nav1_item" /></a></td>
+										<? } else { ?>
+											<td><a href="<?=base_url();?>search/doSearch" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav1_products','','<?=base_url();?>resources/images/nav_products_over.gif',1)"><img src="<?=base_url();?>resources/images/nav_products.gif" id="nav1_products" alt="products" width="67" height="10" border="0" class="nav1_item" /></a></td>
+										<? } ?>
+									<? } ?>
+									
+									<? if (checkPerms('view_properties_tab')) { ?>
+										<? if ($this->opm->activeNav == 'properties') { ?>
+											<td><a href="<?=base_url();?>properties"><img src="<?=base_url();?>resources/images/nav_properties_over.gif" id="nav1_properties" alt="properties" width="77" height="10" border="0" class="nav1_item" /></a></td>
+										<? } else { ?>
+											<td><a href="<?=base_url();?>properties" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav1_properties','','<?=base_url();?>resources/images/nav_properties_over.gif',1)"><img src="<?=base_url();?>resources/images/nav_properties.gif" id="nav1_properties" alt="properties" width="77" height="10" border="0" class="nav1_item" /></a></td>
+										<? } ?>
+									<? } ?>
+									
+									
+									<? if (checkPerms('view_production_tab')) { ?>
+										<? if ($this->opm->activeNav == 'production') { ?>
+											<td><a href="<?=base_url();?>grabsheets/search"><img src="<?=base_url();?>resources/images/nav_production_over.gif" id="nav1_production" alt="production" width="80" height="10" border="0" class="nav1_item" /></a></td>
+										<? } else { ?>
+											<td><a href="<?=base_url();?>grabsheets/search" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav1_production','','<?=base_url();?>resources/images/nav_production_over.gif',1)"><img src="<?=base_url();?>resources/images/nav_production.gif" id="nav1_production" alt="production" width="80" height="10" border="0" class="nav1_item" /></a></td>
+										<? } ?>
+									<? } ?>
+									
+									
+									<? if (checkPerms('view_administration_tab')) { ?>
+										<? if ($this->opm->activeNav == 'administration') { ?>
+											<td><a href="<?=base_url();?>users/search/0/0/0/0"><img src="<?=base_url();?>resources/images/nav_administration_over.gif" id="nav1_administration" alt="administration" width="103" height="10" border="0" class="nav1_item" /></a></td>
+										<? } else { ?>
+											<td><a href="<?=base_url();?>users/search/0/0/0/0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav1_administration','','<?=base_url();?>resources/images/nav_administration_over.gif',1)"><img src="<?=base_url();?>resources/images/nav_administration.gif" id="nav1_administration" alt="administration" width="103" height="10" border="0" class="nav1_item" /></a></td>
+										<? } ?>
+									<? } ?>
+								
+								</tr>
+							</table>

@@ -1,0 +1,7798 @@
+Hey Log FILE
+Hey Log FILE AGAINNN
+05/02/12 11:19:07 AM - Hey Log FILE
+05/02/12 11:19:07 AM - Hey Log FILE AGAINNN
+05/02/12 11:23:38 AM - Hey Log FILE
+05/02/12 11:23:38 AM - Hey Log FILE AGAINNN
+05/02/12 11:27:19 AM - Hey Log FILE
+05/02/12 11:27:19 AM - Hey Log FILE AGAINNN
+05/02/12 11:27:56 AM - Hey Log FILE
+05/02/12 11:27:56 AM - Hey Log FILE AGAINNN
+05/02/12 11:28:07 AM - Hey Log FILE
+05/02/12 11:28:07 AM - Hey Log FILE AGAINNN
+05/02/12 11:28:22 AM - Hey Log FILE
+05/02/12 11:28:22 AM - Hey Log FILE AGAINNN
+07/29/13 09:33:40 AM - Email 'A New Product is available for viewing!' sent to timedgar@yahoo.com,test@studio211.us,timedgar@mac.com
+07/29/13 09:34:56 AM - Email 'A New Product is available for viewing! 
+Hello,
+
+A New Product, called Test Property - Test Product, is available for viewing.
+
+
+The following comment was added by Tim Edgar:
+-----------------------------------------------------------
+
+gyayay
+
+
+-----------------------------------------------------------
+
+
+
+http://dev.opm.com/products/view/1791
+Bravado OPM' sent to timedgar@yahoo.com,test@studio211.us,timedgar@mac.com
+08/06/13 06:46:36 PM - Email 'A New Product is available for viewing! 
+Hello,
+
+A New Product, called Test Property - Test Product, is available for viewing.
+
+
+
+http://dev.opm.com/products/view/1791
+Bravado OPM' sent to timedgar@yahoo.com,test@studio211.us,timedgar@mac.com
+08/13/13 10:29:00 AM - Email 'Chris Church submitted invoice #8 
+Chris Church submitted invoice #8
+http://dev.opm.com/invoices/edit/8' sent to Katherine.Siegel@bravado.com,ute.linhart@bravado.com
+08/14/13 03:33:53 PM - Email 'Tim Edgar submitted invoice #36 
+Tim Edgar submitted invoice #36
+http://dev.opm.com/invoices/edit/36' sent to danielle.morrison@bravado.com
+09/12/13 07:57:13 AM - Email 'Tim Edgar Resubmitted With Revisions Test Property - lame concept Tim Edgar Resubmitted With Revisions Test Property - lame concept
+
+
+The Following Revisions Were Submitted:
+
+Here's some ideas
+
+http://dev.opm.com/products/view/33538' sent to Katherine.Siegel@bravado.com,test@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+09/12/13 08:56:57 AM - Email 'Tim Edgar Resubmitted With Revisions Test Property - lame concept Tim Edgar Resubmitted With Revisions Test Property - lame concept
+
+
+The Following Revisions Were Submitted:
+
+hihi
+
+http://dev.opm.com/products/view/33538' sent to Katherine.Siegel@bravado.com,test@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+09/12/13 09:14:18 AM - Email 'Tim Edgar Resubmitted With Revisions Test Property - lame concept Tim Edgar Resubmitted With Revisions Test Property - lame concept
+
+
+The Following Revisions Were Submitted:
+
+my revisions
+
+http://dev.opm.com/products/view/33538' sent to Katherine.Siegel@bravado.com,test@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+09/12/13 09:15:45 AM - Email 'Tim Edgar Resubmitted With Revisions Test Property - lame concept Tim Edgar Resubmitted With Revisions Test Property - lame concept
+
+
+The Following Revisions Were Submitted:
+
+Hello
+
+http://dev.opm.com/products/view/33538' sent to Katherine.Siegel@bravado.com,test@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+09/12/13 09:15:52 AM - Email 'Tim Edgar Resubmitted With Revisions Test Property - lame concept Tim Edgar Resubmitted With Revisions Test Property - lame concept
+
+
+The Following Revisions Were Submitted:
+
+Hello
+
+http://dev.opm.com/products/view/33538' sent to Katherine.Siegel@bravado.com,test@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+11/15/13 11:25:56 AM - Email 'Your Password From Bravado OPM Your password is: Ó&¹HA¨&îº
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to tim@studio211.us
+11/17/13 09:27:51 AM - Email 'Welcome to Bravado OPM Hello, Bob Brockman
+You have been added as a user to the Bravado OPM system. You can log in using the information below.
+
+http://dev.opm.com/
+Login: bobbydoo@studio211.us
+Password: ÓàdØnÌ9“
+
+For instructions on how to use the OPM system, please refer to the following manual(s).
+
+- http://dev.opm.com/resources/files/manuals/Bravado_OPM_2_external_user_manual.pdf
+
+
+If you have any questions, please contact .
+
+
+
+Thanks!
+
+Bravado OPM.' sent to bobbydoo@studio211.us
+11/17/13 09:34:50 AM - Email 'Welcome to Bravado OPM Hello, Geddy The CAT
+You have been added as a user to the Bravado OPM system. You can log in using the information below.
+
+http://dev.opm.com/
+Login: geddycat@studio211.us
+Password: Q2XGvnSNE
+
+For instructions on how to use the OPM system, please refer to the following manual(s).
+
+
+
+If you have any questions, please contact .
+
+
+
+Thanks!
+
+Bravado OPM.' sent to geddycat@studio211.us
+11/17/13 09:43:39 AM - Email 'Welcome to Bravado OPM Hello, Alex Lifeson
+You have been added as a user to the Bravado OPM system. You can log in using the information below.
+
+http://dev.opm.com/
+Login: alex@studio211.us
+Password: 8xsKcV2m
+
+For instructions on how to use the OPM system, please refer to the following manual(s).
+
+- http://dev.opm.com/resources/files/manuals/Bravado_OPM_2_external_user_manual.pdf
+- http://dev.opm.com/resources/files/manuals/Client_User_Manual_OPM_2.pdf
+- http://dev.opm.com/resources/files/manuals/INTERNAL_Bravado_OPM_2_User_Manual.pdf
+- http://dev.opm.com/resources/files/manuals/OPM_2_Administrator_User_Manual.pdf
+
+
+If you have any questions, please contact .
+
+
+
+Thanks!
+
+Bravado OPM.' sent to alex@studio211.us
+12/03/13 11:57:23 PM - Email 'Welcome to Bravado OPM Hello, Gonzo Joe
+You have been added as a user to the Bravado OPM system. You can log in using the information below.
+
+http://dev.opm.com/
+Login: gonzo@studio211.us
+Password: ZNE2BS3i
+
+For instructions on how to use the OPM system, please refer to the following manual(s).
+
+
+
+If you have any questions, please contact .
+
+
+
+Thanks!
+
+Bravado OPM.' sent to gonzo@studio211.us
+12/04/13 12:02:21 AM - Email 'Bravado OPM password reset Your temporary password is: ÓàÐ’CJ×Ž¹
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to gonzo@studio211.us
+12/04/13 12:03:31 AM - Email 'Bravado OPM password reset Your temporary password is: ÓàÐ’CJ×Ž¹
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to gonzo@studio211.us
+12/04/13 12:05:49 AM - Email 'Bravado OPM password reset Your temporary password is: hi
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to gonzo@studio211.us
+12/04/13 12:11:49 AM - Email 'Bravado OPM password reset Your temporary password is: hi
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to gonzo@studio211.us
+12/04/13 12:12:50 AM - Email 'Bravado OPM password reset Your temporary password is: hi
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to gonzo@studio211.us
+12/04/13 12:23:51 AM - Email 'Bravado OPM password reset Your temporary password is: 0Gosc6jv
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to gonzo@studio211.us
+12/08/13 09:34:58 AM - Email 'Bravado OPM password reset Your temporary password is: PTk8zwZV
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to timedgar@mac.com
+12/08/13 09:36:53 AM - Email 'Bravado OPM password reset Your temporary password is: 5XjpxX16
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to jobby@studio211.us
+12/08/13 09:42:13 AM - Email 'Bravado OPM password reset Your temporary password is: XsOD3w6w
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to jobby@studio211.us
+12/08/13 11:00:06 AM - Email 'Tim Edgar uploaded _MG_8144.JPG to Test Property - Test Auto Check 
+New File uploaded
+
+http://dev.opm.com/products/view/25650' sent to test@studio211.us
+12/08/13 11:04:20 AM - Email 'Tim Edgar uploaded IMG_2469.JPG to Test Property - Test Auto Check 
+New File uploaded
+
+http://dev.opm.com/products/view/25650' sent to test@studio211.us
+12/08/13 11:07:08 AM - Email 'Tim Edgar uploaded IMG_2469.JPG to Test Property - Test Auto Check 
+New File uploaded
+
+http://dev.opm.com/products/view/25650' sent to test@studio211.us
+12/08/13 11:08:16 AM - Email 'Tim Edgar uploaded IMG_2469.JPG to Test Property - Test Auto Check 
+New File uploaded
+
+http://dev.opm.com/products/view/25650' sent to test@studio211.us
+12/08/13 11:13:42 AM - Email 'Tim Edgar uploaded IMG_2451.JPG to Test Property - Test Auto Check 
+New File uploaded
+
+http://dev.opm.com/products/view/25650' sent to test@studio211.us
+12/08/13 11:15:49 AM - Email 'Tim Edgar uploaded IMG_2451.JPG to Test Property - Test Auto Check 
+New File uploaded
+
+http://dev.opm.com/products/view/25650' sent to test@studio211.us
+12/09/13 10:08:26 AM - Email 'Bravado OPM password reset Your temporary password is: h9qwVXsD
+
+ Login here: 
+
+http://dev.opm.com/
+-Bravado OPM' sent to alexbrown@studio211.us
+12/09/13 10:12:12 AM - Email 'Alex Brown Resubmitted With Revisions ABBA - Licensing product 1 Alex Brown Resubmitted With Revisions ABBA - Licensing product 1
+
+
+The Following Revisions Were Submitted:
+
+Don't like the bath pic
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:18:38 AM - Email 'Alex Brown Resubmitted With Revisions ABBA - Licensing product 1 Alex Brown Resubmitted With Revisions ABBA - Licensing product 1
+
+
+The Following Revisions Were Submitted:
+
+boogy
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:20:46 AM - Email 'Alex Brown Resubmitted With Revisions ABBA - Licensing product 1 Alex Brown Resubmitted With Revisions ABBA - Licensing product 1
+
+
+The Following Revisions Were Submitted:
+
+blhabd
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:30:03 AM - Email '<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: username</p>
+<p>Filename: emails/approval_status_changed_subject.php</p>
+<p>Line Number: 1</p>
+
+</div> <div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: approvalstatus</p>
+<p>Filename: emails/approval_status_changed_subject.php</p>
+<p>Line Number: 1</p>
+
+</div> ABBA - Licensing product 1 <div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: username</p>
+<p>Filename: emails/approval_status_changed_body.php</p>
+<p>Line Number: 1</p>
+
+</div> <div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: approvalstatus</p>
+<p>Filename: emails/approval_status_changed_body.php</p>
+<p>Line Number: 1</p>
+
+</div> ABBA - Licensing product 1
+
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,jobby@studio211.us,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:31:44 AM - Email 'Alex Brown Resubmitted With Revisions ABBA - Licensing product 1 Alex Brown Resubmitted With Revisions ABBA - Licensing product 1
+
+
+The Following Revisions Were Submitted:
+
+MY REVISIONZZZ
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,jobby@studio211.us,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:32:27 AM - Email 'Tim Edgar Revisions Complete ABBA - Licensing product 1 Tim Edgar Revisions Complete ABBA - Licensing product 1
+
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,jobby@studio211.us,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:34:12 AM - Email 'Alex Brown Resubmitted With Revisions ABBA - Licensing product 1 Alex Brown Resubmitted With Revisions ABBA - Licensing product 1
+
+
+The Following Revisions Were Submitted:
+
+SOME REVISIONZ
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,jobby@studio211.us,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/09/13 10:36:18 AM - Email 'Tim Edgar set status to Revisions Complete ABBA - Licensing product 1 Tim Edgar set status to Revisions Complete ABBA - Licensing product 1
+
+
+http://dev.opm.com/products/view/33555' sent to Becky.Galvan@bravado.com,jobby@studio211.us,alexbrown@studio211.us,jennifer.kallenbach@umusic.com,joegoo2@gmail.com
+12/12/13 12:08:49 PM - Email 'Welcome to Bravado OPM Hello, Licensee Guy 2
+You have been added as a user to the Bravado OPM system. You can log in using the information below.
+
+http://dev.opm.com/
+Login: lic2@studio211.us
+Password: a53NPuVp
+
+For instructions on how to use the OPM system, please refer to the following manual(s).
+
+- http://dev.opm.com/resources/files/manuals/Bravado_Licensee_user_manual.pdf
+
+
+If you have any questions, please contact .
+
+
+
+Thanks!
+
+Bravado OPM.' sent to lic2@studio211.us
+12/12/13 12:33:03 PM - Email 'Tim Edgar posted a comment to The Beatles - Beatles Product 1 Tim Edgar posted the following comment to The Beatles - Beatles Product 1:
+
+
+Subject: i like it
+Body: <p>it's good</p>
+http://dev.opm.com/products/view/33556' sent to Katherine.Siegel@bravado.com
+12/12/13 12:50:17 PM - Email 'Welcome to Bravado OPM Hello, Licensor
+You have been added as a user to the Bravado OPM system. You can log in using the information below.
+
+http://dev.opm.com/
+Login: licensor@studio211.us
+Password: 3cMuOGIo
+
+For instructions on how to use the OPM system, please refer to the following manual(s).
+
+
+
+If you have any questions, please contact .
+
+
+
+Thanks!
+
+Bravado OPM.' sent to licensor@studio211.us
+12/12/13 12:56:22 PM - Email 'Licensor Resubmitted With Revisions The Beatles - Beatles Product 1 Licensor Resubmitted With Revisions The Beatles - Beatles Product 1
+
+
+The Following Revisions Were Submitted:
+
+Make it blue
+
+http://dev.opm.com/products/view/33556' sent to Katherine.Siegel@bravado.com,jennifer.kallenbach@umusic.com,joegoo2@gmail.com,licensor@studio211.us
+12/20/13 01:32:54 PM - Email 'Tim Edgar posted a comment to Test Property - Test Product Tim Edgar posted the following comment to Test Property - Test Product:
+
+
+Subject: make it like this
+Body: <p><img src="/resources/images/forumimages/IMG_2469.JPG" alt="" /></p>
+http://dev.opm.com/products/view/1791' sent to Katherine.Siegel@bravado.com,andy@advartex.co.uk,test@studio211.us
+12/31/13 11:23:06 AM - Email 'Joe Licensee uploaded Screen Shot 2013-12-30 at 9.06.48 AM.png to Test Property - Test Get Notification 
+New File uploaded
+
+http://dev.opm.com/products/view/33560' sent to test@studio211.us
+12/31/13 11:25:06 AM - Email 'Tim Edgar Approved Test Property - Test Get Notification Tim Edgar Approved Test Property - Test Get Notification
+
+
+http://dev.opm.com/products/view/33560' sent to Katherine.Siegel@bravado.com,test@studio211.us,jobby@studio211.us,jennifer.kallenbach@umusic.com,jl@studio211.us,joegoo2@gmail.com
+01/02/14 10:22:23 AM - 
+01/02/14 10:22:26 AM - 
+01/02/14 10:22:30 AM - 
+01/02/14 10:23:14 AM - 
+01/02/14 10:23:18 AM - 
+01/02/14 10:23:21 AM - 
+01/02/14 10:24:24 AM - hiii
+01/02/14 10:24:28 AM - hiii
+01/02/14 10:24:32 AM - hiii
+01/02/14 10:25:18 AM - hiii
+01/02/14 10:25:21 AM - hiii
+01/02/14 10:25:25 AM - hiii
+01/02/14 10:27:14 AM - hiii
+01/02/14 10:27:17 AM - hiii
+01/02/14 10:28:17 AM - hiii
+01/02/14 10:28:24 AM - hiii
+01/02/14 10:30:08 AM - hiii
+01/02/14 10:30:11 AM - hiii
+01/02/14 10:31:35 AM - hiii
+01/02/14 10:32:12 AM - hiii
+01/02/14 10:32:15 AM - hiii
+01/02/14 10:32:48 AM - hiii394
+01/02/14 10:32:51 AM - hiii393
+01/02/14 10:36:31 AM - hiiiArray
+(
+    [propertyid] => 2
+    [arid] => 
+    [prodid] => 
+    [creativeid] => 
+)
+
+01/02/14 10:36:32 AM - hiiiArray
+(
+    [propertyid] => 2
+    [arid] => 867
+    [prodid] => 
+    [creativeid] => 
+)
+
+01/02/14 10:37:40 AM - hiiiArray
+(
+    [propertyid] => 674
+    [arid] => 867
+    [prodid] => 
+    [creativeid] => 
+)
+
+01/02/14 10:37:45 AM - hiiiArray
+(
+    [propertyid] => 
+    [arid] => 1161
+    [prodid] => 
+    [creativeid] => 
+)
+
+01/02/14 10:37:47 AM - hiiiArray
+(
+    [propertyid] => 
+    [arid] => 1161
+    [prodid] => 167
+    [creativeid] => 
+)
+
+01/02/14 10:37:49 AM - hiiiArray
+(
+    [propertyid] => 666
+    [arid] => 1161
+    [prodid] => 167
+    [creativeid] => 
+)
+
+01/02/14 10:45:54 AM - hiiia:4:{s:10:"propertyid";s:0:"";s:4:"arid";s:3:"167";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";}
+01/02/14 10:45:56 AM - hiiia:4:{s:10:"propertyid";s:0:"";s:4:"arid";s:3:"167";s:6:"prodid";s:0:"";s:10:"creativeid";s:3:"163";}
+01/02/14 10:45:58 AM - hiiia:4:{s:10:"propertyid";s:0:"";s:4:"arid";s:3:"167";s:6:"prodid";s:3:"163";s:10:"creativeid";s:3:"163";}
+01/02/14 10:45:59 AM - hiiia:4:{s:10:"propertyid";s:3:"518";s:4:"arid";s:3:"167";s:6:"prodid";s:3:"163";s:10:"creativeid";s:3:"163";}
+01/02/14 10:47:37 AM - hiiia:5:{s:10:"propertyid";s:0:"";s:4:"arid";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:2:"97";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";}
+01/02/14 10:47:38 AM - hiiia:5:{s:10:"propertyid";s:0:"";s:4:"arid";s:0:"";s:6:"prodid";s:2:"18";s:10:"creativeid";s:2:"97";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";}
+01/02/14 10:47:40 AM - hiiia:5:{s:10:"propertyid";s:0:"";s:4:"arid";s:3:"199";s:6:"prodid";s:2:"18";s:10:"creativeid";s:2:"97";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";}
+01/02/14 10:47:43 AM - hiiia:5:{s:10:"propertyid";s:3:"674";s:4:"arid";s:3:"199";s:6:"prodid";s:2:"18";s:10:"creativeid";s:2:"97";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";}
+01/03/14 09:01:01 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:01:03 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:01:04 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:01:06 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:01:08 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"4";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:01:11 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"4";s:12:"add_numgoods";s:3:"767";}
+01/03/14 09:01:47 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"4";s:12:"add_numgoods";s:3:"767";}
+01/03/14 09:01:47 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"4";s:12:"add_numgoods";s:3:"767";}
+01/03/14 09:04:46 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:08:45 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:08:50 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:12:30 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:12:33 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"6";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:12:39 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"9";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:15:03 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:15:06 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:15:08 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:15:10 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";}
+01/03/14 09:18:50 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"1";}
+01/03/14 09:18:57 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:6:"booboo";s:20:"GOGOGOGOG  lalalala ";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"6";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/03/14 10:11:31 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:3:"192";s:6:"prodid";s:2:"97";s:10:"creativeid";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/03/14 10:11:38 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:3:"192";s:6:"prodid";s:2:"49";s:10:"creativeid";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/03/14 10:11:46 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:3:"192";s:6:"prodid";s:2:"49";s:10:"creativeid";s:1:"1";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/03/14 10:11:49 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:3:"192";s:6:"prodid";s:2:"49";s:10:"creativeid";s:1:"1";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/03/14 10:11:51 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:3:"192";s:6:"prodid";s:2:"49";s:10:"creativeid";s:1:"1";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:02:26 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:03:27 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:03:32 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:03:36 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:03:39 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:04:10 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:04:12 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:04:14 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:2:"34";s:10:"addGarment";s:1:"1";}
+01/04/14 10:12:46 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"9";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:12:47 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"9";s:11:"add_colorid";s:2:"10";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:12:49 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"9";s:11:"add_colorid";s:2:"10";s:12:"add_numgoods";s:1:"3";s:10:"addGarment";s:1:"1";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"9";s:7:"colorid";s:2:"10";s:3:"qty";s:1:"3";}}}
+01/04/14 10:12:54 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"9";s:11:"add_colorid";s:2:"10";s:12:"add_numgoods";s:1:"3";s:10:"addGarment";s:1:"1";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"9";s:7:"colorid";s:2:"10";s:3:"qty";s:1:"3";}}}
+01/04/14 10:13:05 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"9";s:11:"add_colorid";s:2:"10";s:12:"add_numgoods";s:1:"3";s:10:"addGarment";s:1:"1";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"9";s:7:"colorid";s:2:"10";s:3:"qty";s:1:"3";}}}
+01/04/14 10:13:12 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:13:14 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:2:"10";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:13:16 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:2:"10";s:12:"add_numgoods";s:2:"23";s:10:"addGarment";s:1:"1";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"8";s:7:"colorid";s:2:"10";s:3:"qty";s:2:"23";}}}
+01/04/14 10:13:34 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:13:36 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:13:38 AM - a:9:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:3:"867";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:2:"44";s:10:"addGarment";s:1:"1";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"7";s:7:"colorid";s:1:"5";s:3:"qty";s:2:"44";}}}
+01/04/14 10:14:35 AM - a:8:{s:10:"propertyid";s:3:"518";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 10:14:42 AM - a:8:{s:10:"propertyid";s:1:"2";s:4:"arid";s:2:"97";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 11:09:59 AM - a:8:{s:10:"propertyid";s:1:"2";s:4:"arid";s:8:"IN_HOUSE";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 11:11:32 AM - a:9:{s:10:"propertyid";s:1:"2";s:4:"arid";s:0:"";s:14:"design_process";s:8:"IN_HOUSE";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 11:11:39 AM - a:9:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:0:"";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 11:20:02 AM - a:9:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:8:"IN_HOUSE";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 11:20:07 AM - a:9:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:12:"FREELANCE_OK";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";}
+01/04/14 11:23:59 AM - a:10:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:8:"IN_HOUSE";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:19:"These are my noteys";}
+01/04/14 11:24:03 AM - a:10:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:12:"FREELANCE_OK";s:6:"prodid";s:2:"97";s:10:"creativeid";s:3:"199";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:19:"These are my noteys";}
+01/04/14 11:24:28 AM - a:10:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:12:"FREELANCE_OK";s:6:"prodid";s:2:"97";s:10:"creativeid";s:2:"97";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:19:"These are my noteys";}
+01/04/14 11:24:42 AM - a:10:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:12:"FREELANCE_OK";s:6:"prodid";s:2:"97";s:10:"creativeid";s:2:"97";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:19:"These are my noteys";}
+01/04/14 11:24:43 AM - a:10:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:12:"FREELANCE_OK";s:6:"prodid";s:2:"97";s:10:"creativeid";s:2:"97";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:19:"These are my noteys";}
+01/04/14 11:24:47 AM - a:11:{s:10:"propertyid";s:1:"2";s:4:"arid";s:3:"163";s:14:"design_process";s:12:"FREELANCE_OK";s:6:"prodid";s:2:"97";s:10:"creativeid";s:2:"97";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:2:"24";s:10:"addGarment";s:1:"1";s:8:"reqNotes";s:19:"These are my noteys";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"7";s:7:"colorid";s:1:"5";s:3:"qty";s:2:"24";}}}
+01/04/14 08:54:02 PM - a:11:{s:10:"propertyid";s:0:"";s:4:"arid";s:0:"";s:14:"design_process";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"3";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:0:"";}
+01/04/14 08:54:03 PM - a:11:{s:10:"propertyid";s:0:"";s:4:"arid";s:0:"";s:14:"design_process";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"3";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:0:"";}
+01/04/14 08:54:05 PM - a:12:{s:10:"propertyid";s:0:"";s:4:"arid";s:0:"";s:14:"design_process";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:1:"7";s:11:"add_colorid";s:1:"3";s:12:"add_numgoods";s:2:"34";s:10:"addGarment";s:1:"1";s:8:"reqNotes";s:0:"";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"7";s:7:"colorid";s:1:"3";s:3:"qty";s:2:"34";}}}
+01/04/14 09:07:15 PM - a:12:{s:10:"propertyid";s:3:"231";s:4:"arid";s:0:"";s:14:"design_process";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:10:"categoryid";a:1:{i:0;s:1:"7";}s:8:"reqNotes";s:0:"";}
+01/04/14 09:07:17 PM - a:12:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:0:"";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:10:"categoryid";a:1:{i:0;s:1:"7";}s:8:"reqNotes";s:0:"";}
+01/04/14 09:07:18 PM - a:12:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:0:"";s:10:"creativeid";s:3:"199";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:10:"categoryid";a:1:{i:0;s:1:"7";}s:8:"reqNotes";s:0:"";}
+01/04/14 09:07:20 PM - a:12:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:3:"199";s:10:"creativeid";s:3:"199";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:10:"categoryid";a:1:{i:0;s:1:"7";}s:8:"reqNotes";s:0:"";}
+01/04/14 09:07:30 PM - a:12:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:3:"199";s:10:"creativeid";s:3:"199";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:0:"";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"1";s:8:"reqNotes";s:0:"";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:0:"";s:7:"colorid";s:1:"0";s:3:"qty";s:0:"";}}}
+01/04/14 09:07:34 PM - a:11:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:3:"199";s:10:"creativeid";s:3:"199";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"0";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:0:"";}
+01/04/14 09:07:35 PM - a:11:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:3:"199";s:10:"creativeid";s:3:"199";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:0:"";s:10:"addGarment";s:1:"0";s:8:"reqNotes";s:0:"";}
+01/04/14 09:07:37 PM - a:12:{s:10:"propertyid";s:3:"231";s:4:"arid";s:3:"199";s:14:"design_process";s:0:"";s:6:"prodid";s:3:"199";s:10:"creativeid";s:3:"199";s:11:"estArtCosts";s:0:"";s:9:"add_catid";s:1:"8";s:11:"add_colorid";s:1:"5";s:12:"add_numgoods";s:2:"76";s:10:"addGarment";s:1:"1";s:8:"reqNotes";s:0:"";s:8:"garments";a:1:{i:0;a:3:{s:10:"categoryid";s:1:"8";s:7:"colorid";s:1:"5";s:3:"qty";s:2:"76";}}}
+01/04/14 09:23:42 PM - this triggered 1
+01/04/14 09:23:45 PM - this triggered 1
+01/04/14 09:23:46 PM - this triggered 1
+01/04/14 09:23:47 PM - this triggered 1
+01/04/14 09:24:25 PM - this triggered 1
+01/04/14 09:24:26 PM - this triggered 1
+01/04/14 09:24:28 PM - this triggered 1
+01/04/14 09:28:38 PM - thisran
+01/04/14 09:29:14 PM - thisran
+01/04/14 09:29:19 PM - thisran
+01/04/14 09:31:24 PM - thisran2
+01/04/14 09:31:24 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 76
+        )
+
+    [reqNotes] => 
+)
+
+01/04/14 09:32:11 PM - thisran2
+01/04/14 09:32:11 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:32:13 PM - thisran2
+01/04/14 09:32:13 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 4
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:32:15 PM - thisran2
+01/04/14 09:32:15 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 4
+    [add_numgoods] => 45
+    [addGarment] => 1
+    [reqNotes] => 
+)
+
+01/04/14 09:32:32 PM - thisran2
+01/04/14 09:32:32 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:32:33 PM - thisran2
+01/04/14 09:32:33 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:32:35 PM - thisran2
+01/04/14 09:32:35 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 5
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 5
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:34:29 PM - thisran2
+01/04/14 09:34:29 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 9
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+        )
+
+)
+
+01/04/14 09:34:30 PM - thisran2
+01/04/14 09:34:30 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 9
+    [add_colorid] => 9
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+        )
+
+)
+
+01/04/14 09:34:31 PM - thisran2
+01/04/14 09:34:31 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 9
+    [add_colorid] => 9
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:35:33 PM - thisran2
+01/04/14 09:35:33 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 9
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 9
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+        )
+
+)
+
+01/04/14 09:35:34 PM - thisran2
+01/04/14 09:35:34 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 4
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 9
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 9
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+        )
+
+)
+
+01/04/14 09:35:35 PM - thisran2
+01/04/14 09:35:35 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 4
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 9
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 9
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:42:11 PM - thisran2
+01/04/14 09:42:11 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 4
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:42:12 PM - thisran2
+01/04/14 09:42:12 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 4
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:42:14 PM - thisran2
+01/04/14 09:42:14 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 5
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 4
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 34
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 5
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:42:14 PM - thisran2
+01/04/14 09:42:14 PM - Array
+(
+    [propertyid] => 231
+    [arid] => 199
+    [design_process] => 
+    [prodid] => 199
+    [creativeid] => 27
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 5
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 9
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 9
+            [1] => 4
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 9
+            [1] => 34
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 9
+                    [colorid] => 9
+                    [qty] => 9
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 34
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 5
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:43:22 PM - thisran2
+01/04/14 09:43:22 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:27 PM - thisran2
+01/04/14 09:43:27 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:29 PM - thisran2
+01/04/14 09:43:29 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:30 PM - thisran2
+01/04/14 09:43:30 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:32 PM - thisran2
+01/04/14 09:43:32 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:40 PM - thisran2
+01/04/14 09:43:40 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:41 PM - thisran2
+01/04/14 09:43:41 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 8
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:43 PM - thisran2
+01/04/14 09:43:43 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 8
+    [add_colorid] => 5
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 5
+                    [qty] => 34
+                )
+
+        )
+
+)
+
+01/04/14 09:43:46 PM - thisran2
+01/04/14 09:43:46 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 6
+    [add_colorid] => 5
+    [add_numgoods] => 34
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:47 PM - thisran2
+01/04/14 09:43:47 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 6
+    [add_colorid] => 11
+    [add_numgoods] => 34
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:50 PM - thisran2
+01/04/14 09:43:50 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 6
+    [add_colorid] => 11
+    [add_numgoods] => 67
+    [addGarment] => 1
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 6
+                    [colorid] => 11
+                    [qty] => 67
+                )
+
+        )
+
+)
+
+01/04/14 09:43:53 PM - thisran2
+01/04/14 09:43:53 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 11
+    [add_colorid] => 11
+    [add_numgoods] => 67
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:54 PM - thisran2
+01/04/14 09:43:54 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 11
+    [add_colorid] => 25
+    [add_numgoods] => 67
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/04/14 09:43:59 PM - thisran2
+01/04/14 09:43:59 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 163
+    [estArtCosts] => 54.00
+    [add_catid] => 11
+    [add_colorid] => 25
+    [add_numgoods] => 112
+    [addGarment] => 1
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 11
+                    [colorid] => 25
+                    [qty] => 112
+                )
+
+        )
+
+)
+
+01/04/14 09:44:11 PM - thisran2
+01/04/14 09:44:11 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 54.00
+    [add_catid] => 11
+    [add_colorid] => 25
+    [add_numgoods] => 112
+    [addGarment] => 0
+    [reqNotes] => professa
+)
+
+01/04/14 09:44:25 PM - thisran2
+01/04/14 09:44:25 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 5
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => professa
+)
+
+01/04/14 09:44:26 PM - thisran2
+01/04/14 09:44:26 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 5
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => professa
+)
+
+01/04/14 09:44:28 PM - thisran2
+01/04/14 09:44:28 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 5
+    [add_colorid] => 5
+    [add_numgoods] => 545
+    [addGarment] => 1
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                )
+
+        )
+
+)
+
+01/04/14 09:44:35 PM - thisran2
+01/04/14 09:44:35 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 5
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                )
+
+        )
+
+)
+
+01/04/14 09:44:36 PM - thisran2
+01/04/14 09:44:36 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 5
+    [add_colorid] => 6
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                )
+
+        )
+
+)
+
+01/04/14 09:44:38 PM - thisran2
+01/04/14 09:44:38 PM - Array
+(
+    [propertyid] => 2
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 5
+    [add_colorid] => 6
+    [add_numgoods] => 343
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                )
+
+        )
+
+)
+
+01/04/14 09:56:15 PM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+            [1] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+            [1] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+            [1] => 343
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                    [category] => Tote Bags
+                    [color] => ASH
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                    [category] => Tote Bags
+                    [color] => ASH/CHARCOAL
+                )
+
+        )
+
+)
+
+01/04/14 09:56:42 PM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+            [1] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+            [1] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+            [1] => 343
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                    [category] => Tote Bags
+                    [color] => ASH
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                    [category] => Tote Bags
+                    [color] => ASH/CHARCOAL
+                )
+
+        )
+
+)
+
+01/04/14 09:56:44 PM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+            [1] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+            [1] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+            [1] => 343
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                    [category] => Tote Bags
+                    [color] => ASH
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                    [category] => Tote Bags
+                    [color] => ASH/CHARCOAL
+                )
+
+        )
+
+)
+
+01/04/14 09:56:45 PM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 21
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+            [1] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+            [1] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+            [1] => 343
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                    [category] => Tote Bags
+                    [color] => ASH
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                    [category] => Tote Bags
+                    [color] => ASH/CHARCOAL
+                )
+
+        )
+
+)
+
+01/04/14 09:56:48 PM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 18
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 21
+    [add_numgoods] => 34
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 5
+            [1] => 5
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+            [1] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+            [1] => 343
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                    [category] => Tote Bags
+                    [color] => ASH
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                    [category] => Tote Bags
+                    [color] => ASH/CHARCOAL
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 21
+                    [qty] => 34
+                    [category] => Floral Shirts
+                    [color] => BLUE/GREY
+                )
+
+        )
+
+)
+
+01/04/14 10:06:36 PM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => IN_HOUSE
+    [prodid] => 163
+    [creativeid] => 867
+    [estArtCosts] => 3533
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 5
+            [1] => 5
+            [2] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 5
+            [1] => 6
+            [2] => 21
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 545
+            [1] => 343
+            [2] => 34
+        )
+
+    [reqNotes] => professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 5
+                    [qty] => 545
+                    [category] => Tote Bags
+                    [color] => ASH
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 5
+                    [colorid] => 6
+                    [qty] => 343
+                    [category] => Tote Bags
+                    [color] => ASH/CHARCOAL
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 21
+                    [qty] => 34
+                    [category] => Floral Shirts
+                    [color] => BLUE/GREY
+                )
+
+        )
+
+)
+
+01/05/14 01:02:30 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 199
+    [estArtCosts] => 1400
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/05/14 01:02:41 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 199
+    [estArtCosts] => 1400
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/05/14 01:02:43 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 199
+    [estArtCosts] => 1400
+    [add_catid] => 8
+    [add_colorid] => 4
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/05/14 01:02:44 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 199
+    [estArtCosts] => 1400
+    [add_catid] => 8
+    [add_colorid] => 4
+    [add_numgoods] => 23
+    [addGarment] => 1
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 23
+                    [category] => Floral Shirts
+                    [color] => ARMY GREEN
+                )
+
+        )
+
+)
+
+01/05/14 01:03:10 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => IN_HOUSE
+    [prodid] => 
+    [creativeid] => 199
+    [estArtCosts] => 1400
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 4
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => Hey professa
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 4
+                    [qty] => 23
+                    [category] => Floral Shirts
+                    [color] => ARMY GREEN
+                )
+
+        )
+
+)
+
+01/05/14 08:12:47 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/05/14 08:12:49 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 6
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/05/14 08:12:50 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 6
+    [add_numgoods] => 23
+    [addGarment] => 1
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:12:57 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 4
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:12:59 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 4
+    [add_colorid] => 6
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:13:01 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [add_catid] => 4
+    [add_colorid] => 6
+    [add_numgoods] => 32
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 4
+                    [colorid] => 6
+                    [qty] => 32
+                )
+
+        )
+
+)
+
+01/05/14 08:13:03 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 4
+    [add_colorid] => 6
+    [add_numgoods] => 32
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:13:08 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:13:10 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 10
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:13:11 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 10
+    [add_numgoods] => 23
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:17:45 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:17:46 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 2
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:17:48 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 7
+    [add_colorid] => 2
+    [add_numgoods] => 23
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:18:03 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:18:04 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+        )
+
+)
+
+01/05/14 08:18:06 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 112
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+        )
+
+)
+
+01/05/14 08:38:01 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 1
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+        )
+
+)
+
+01/05/14 08:38:03 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 1
+    [add_colorid] => 3
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+        )
+
+)
+
+01/05/14 08:38:05 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 97
+    [estArtCosts] => 
+    [add_catid] => 1
+    [add_colorid] => 3
+    [add_numgoods] => ww
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:55:01 AM - Array
+(
+    [propertyid] => 
+    [arid] => 
+    [design_process] => 
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-11-2014
+    [prodid] => 
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:55:07 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 
+    [design_process] => 
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-11-2014
+    [prodid] => 
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:55:10 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => 
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-11-2014
+    [prodid] => 
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:55:20 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-11-2014
+    [prodid] => 
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:55:22 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-11-2014
+    [prodid] => 1
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:56:25 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => 
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 08:56:34 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 1161
+    [estArtCosts] => 
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:20:35 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:06 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:08 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:11 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 5
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:13 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 5
+    [add_numgoods] => 42
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:15 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 5
+    [add_numgoods] => 42
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:54 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:55 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => YES
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:31:58 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => YES
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:32:00 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => YES
+    [add_catid] => 8
+    [add_colorid] => 4
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:32:01 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => YES
+    [add_catid] => 8
+    [add_colorid] => 4
+    [add_numgoods] => 12
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:32:33 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 1
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:32:35 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 1
+    [add_colorid] => 12
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:32:36 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 1
+    [add_colorid] => 12
+    [add_numgoods] => 12
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:32:47 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 1
+    [add_colorid] => 12
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:33:02 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:33:03 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:33:05 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 3
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:33:06 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 5
+    [add_colorid] => 3
+    [add_numgoods] => 12
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:35:00 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:35:01 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:35:03 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:35:05 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+        )
+
+)
+
+01/05/14 10:35:05 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:09 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:09 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:10 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:11 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:17 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 121
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:19 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 0
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:19 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 0
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [9] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 0
+                )
+
+        )
+
+)
+
+01/05/14 10:35:20 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 0
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:22 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:27 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 3
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:29 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 8
+    [add_colorid] => 9
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:31 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 7
+    [add_colorid] => 9
+    [add_numgoods] => 
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:33 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 7
+    [add_colorid] => 9
+    [add_numgoods] => 121
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:33 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 7
+    [add_colorid] => 9
+    [add_numgoods] => 121
+    [addGarment] => 1
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [9] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 9
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:47 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 7
+    [add_colorid] => 9
+    [add_numgoods] => 121
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+            [9] => 7
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+            [9] => 9
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+            [9] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [9] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 9
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/05/14 10:35:49 AM - Array
+(
+    [propertyid] => 2
+    [arid] => 15
+    [design_process] => FREELANCE_OK
+    [tourStartDate] => 01-30-2014
+    [artSubmissionDeadline] => 01-16-2014
+    [sampleApprovalDeadline] => 01-30-2014
+    [prodid] => 1
+    [creativeid] => 
+    [estArtCosts] => 24000
+    [rushProcessing] => NO
+    [add_catid] => 7
+    [add_colorid] => 9
+    [add_numgoods] => 121
+    [addGarment] => 0
+    [g_categoryid] => Array
+        (
+            [0] => 8
+            [1] => 8
+            [2] => 7
+            [3] => 8
+            [4] => 1
+            [5] => 8
+            [6] => 8
+            [7] => 8
+            [8] => 8
+            [9] => 7
+        )
+
+    [g_colorid] => Array
+        (
+            [0] => 6
+            [1] => 10
+            [2] => 2
+            [3] => 3
+            [4] => 3
+            [5] => 3
+            [6] => 3
+            [7] => 3
+            [8] => 3
+            [9] => 9
+        )
+
+    [g_qty] => Array
+        (
+            [0] => 23
+            [1] => 23
+            [2] => 23
+            [3] => 112
+            [4] => ww
+            [5] => 121
+            [6] => 121
+            [7] => 121
+            [8] => 121
+            [9] => 121
+        )
+
+    [reqNotes] => HEY PROFESSA
+    [garments] => Array
+        (
+            [0] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 6
+                    [qty] => 23
+                )
+
+            [1] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 10
+                    [qty] => 23
+                )
+
+            [2] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 2
+                    [qty] => 23
+                )
+
+            [3] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 112
+                )
+
+            [4] => Array
+                (
+                    [categoryid] => 1
+                    [colorid] => 3
+                    [qty] => ww
+                )
+
+            [5] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [6] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [7] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [8] => Array
+                (
+                    [categoryid] => 8
+                    [colorid] => 3
+                    [qty] => 121
+                )
+
+            [9] => Array
+                (
+                    [categoryid] => 7
+                    [colorid] => 9
+                    [qty] => 121
+                )
+
+        )
+
+)
+
+01/06/14 12:28:36 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 12:28:38 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => 
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 12:28:40 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => FREELANCE_OK
+    [prodid] => 
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 12:28:42 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => FREELANCE_OK
+    [prodid] => 97
+    [creativeid] => 
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 12:28:43 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => FREELANCE_OK
+    [prodid] => 97
+    [creativeid] => 199
+    [estArtCosts] => 
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 12:28:47 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => FREELANCE_OK
+    [prodid] => 97
+    [creativeid] => 199
+    [estArtCosts] => 765
+    [rushProcessing] => NO
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 12:28:49 AM - Array
+(
+    [propertyid] => 676
+    [arid] => 163
+    [design_process] => FREELANCE_OK
+    [prodid] => 97
+    [creativeid] => 199
+    [estArtCosts] => 765
+    [rushProcessing] => YES
+    [add_catid] => 
+    [add_colorid] => 0
+    [add_numgoods] => 
+    [addGarment] => 0
+    [reqNotes] => 
+)
+
+01/06/14 08:32:13 AM - Email 'Tim Edgar posted a comment to Test Property - Test Product Tim Edgar posted the following comment to Test Property - Test Product:
+
+
+Subject: MY COMMENT
+Body: <p>HELLO</p>
+http://dev.opm.com/products/view/1791' sent to Katherine.Siegel@bravado.com,andy@advartex.co.uk,test@studio211.us
+01/06/14 08:34:47 AM - Email 'Tim Edgar posted a comment to Test Property - Test Product Tim Edgar posted the following comment to Test Property - Test Product:
+
+
+Subject: yaya
+Body: <p><img src="/resources/images/forumimages/timshanmohonk.jpg" alt="" /></p>
+http://dev.opm.com/products/view/1791' sent to Katherine.Siegel@bravado.com,andy@advartex.co.uk,test@studio211.us
+01/06/14 10:17:00 AM - Email 'Tim Edgar posted a comment to Test Property - Test Product Tim Edgar posted the following comment to Test Property - Test Product:
+
+
+Subject: IMAGE RESIZE TEST
+Body: <p><img src="/resources/images/forumimages/MOCK3_HOME.jpg" alt="" /></p>
+http://dev.opm.com/products/view/1791' sent to Katherine.Siegel@bravado.com,andy@advartex.co.uk,test@studio211.us
+01/06/14 10:24:20 AM - Email 'Tim Edgar posted a comment to Test Property - Tim's OPM 2.0 Product 1 Tim Edgar posted the following comment to Test Property - Tim's OPM 2.0 Product 1:
+
+
+Subject: yahaha
+Body: <p><img src="/resources/images/forumimages/IMG_2559.jpeg" alt="" /></p>
+http://dev.opm.com/products/view/18081' sent to Katherine.Siegel@bravado.com,test@studio211.us
+01/06/14 10:25:36 AM - Email 'Tim Edgar posted a comment to Test Property - Tim's OPM 2.0 Product 1 Tim Edgar posted the following comment to Test Property - Tim's OPM 2.0 Product 1:
+
+
+Subject: yahaha
+Body: <p><img src="/resources/images/forumimages/IMG_2559.jpeg" alt="" /></p>
+http://dev.opm.com/products/view/18081' sent to Katherine.Siegel@bravado.com,test@studio211.us

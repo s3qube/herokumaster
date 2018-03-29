@@ -1,0 +1,1 @@
+<?= $forwarder ?> sent you invoice #<?= $invoice->id ?>

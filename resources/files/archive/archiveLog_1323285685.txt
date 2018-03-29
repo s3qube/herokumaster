@@ -1,0 +1,15 @@
+ARCHIVE LOG Wednesday 7th of December 2011 02:21:25 PM
+--------------------
+
+Files Archived: 1
+Files With Errors: 7
+
+
+Test Property - Test Product - Master File # - 30006 had the following error: Copy File Failed.
+Test Property - Test Product - Master File # - 30007 had the following error: Copy File Failed.
+Test Property - Test Product - Master File # - 30008 had the following error: Copy File Failed.
+Test Property - Test Product - Master File # - 30009 had the following error: Copy File Failed.
+Test Property - Test Product - Master File # - 30015 was archived succesfully.
+Test Property - Test Product - Separation # - 12039 had the following error: Copy File Failed.
+Test Property - Test Product - Separation # - 16995 had the following error: Copy File Failed.
+Test Property - Test Product - Separation # - 17715 had the following error: Copy File Failed.

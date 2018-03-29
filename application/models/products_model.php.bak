@@ -1,0 +1,733 @@
+<?
+
+class Products_model extends Model {
+
+    function ProductsModel()
+    {
+        // Call the Model constructor
+		parent::__construct();   
+    }
+
+    function fetchProducts($returnTotal = false, $offset = 0, $perPage = null, $propertyid = null, $productlineid = null, $categoryid = null, $usergroupid = null, $approvalstatusid = null, $sampappstatusid = null, $searchtext = null, $productcode = null, $isQuickSearch = false, $designerid = null, $orderBy = null, $orderByAscDesc = null) {
+    	
+		$validOrderbys = array(	"id"=>"opm_products.opm_productid",
+								"productname"=>"opm_products.productname",
+								"propertyname"=>"properties.property",
+								"category"=>"categories.category",
+								"appstatus"=>"approvalstatus",
+								"sampappstatus"=>"opm_products.sampleappstatusid",
+								"lastactivity"=>"opm_products.lastmodified",
+								"createdate"=>"opm_products.timestamp",
+								"numMasterFiles"=>"numMasterFiles",
+								"numSeparations"=>"numSeparations");
+    	
+    	// first we must query to get the total # of results
+
+    
+    	if (!$returnTotal)
+    		$sql = "SELECT opm_products.*,IFNULL(opm_approvalstatuses.approvalstatus,'Pending Approval') AS approvalstatus, IFNULL(appstatuses2.approvalstatus,'Pending Approval') AS sampleappstatus,
+    				properties.property,categories.category,GROUP_CONCAT(DISTINCT opm_productlines.productline SEPARATOR ', ') as productlines, 
+    				COUNT(DISTINCT opm_masterfiles.fileid) AS numMasterFiles, COUNT(DISTINCT opm_separations.fileid) AS numSeparations";
+    	else 
+    		$sql = "SELECT opm_products.opm_productid";
+
+    			
+    	$sql .=	" FROM opm_products ";
+    	
+    	//if (!$returnTotal) {
+    	
+    		$sql .= "
+    	       	
+    	       	LEFT JOIN opm_separations on opm_separations.opm_productid = opm_products.opm_productid
+    	        LEFT JOIN opm_masterfiles ON opm_masterfiles.opm_productid = opm_products.opm_productid
+    			LEFT JOIN properties ON properties.propertyid = opm_products.propertyid
+    			LEFT JOIN categories ON categories.categoryid = opm_products.categoryid
+    			LEFT JOIN opm_approvalstatuses ON opm_approvalstatuses.approvalstatusid = opm_products.approvalstatusid
+    			LEFT JOIN opm_approvalstatuses AS appstatuses2 ON appstatuses2.approvalstatusid = opm_products.sampleappstatusid
+    			LEFT JOIN opm_products_productlines ON opm_products_productlines.opm_productid = opm_products.opm_productid
+    			LEFT JOIN opm_products_usergroups ON opm_products_usergroups.opm_productid = opm_products.opm_productid
+    			LEFT JOIN opm_products_designers ON opm_products_designers.opm_productid = opm_products.opm_productid
+    			LEFT JOIN opm_productlines ON opm_productlines.productlineid = opm_products_productlines.productlineid
+    			
+    			";
+    	//}
+    	
+    	if (USE_PERMISSION_QUERY)
+    		$sql .= PERMISSION_QUERY;
+    	
+    			
+    	$sql .= " WHERE opm_products.opm_productid <> 0 ";
+    	
+    	//if (USE_PERMISSION_QUERY)
+    	//	$sql .= " AND canview.id IS NOT NULL";
+    		
+    	if ($productlineid)
+    		$sql .= " AND opm_products_productlines.productlineid = '".$productlineid."'";
+    			
+    	if ($propertyid)
+    		$sql .= " AND opm_products.propertyid = '".$propertyid."'";
+    	
+    	if ($designerid)
+    		$sql .= " AND opm_products_designers.userid = '".$designerid."'";
+    		
+    	if ($categoryid)
+    		$sql .= " AND opm_products.categoryid = '".$categoryid."'";
+    		
+    	if ($usergroupid) {
+    		
+    		// get children of this usergroupid!
+    		
+    		$CI =& get_instance();
+			
+			$CI->load->model('usergroups_model');
+			$ugids = $CI->usergroups_model->getChildren($usergroupid);
+			$ugids[] = $usergroupid;
+    		$strUGs = implode(",", $ugids); // make it into a comma-delimited list for the sql query!
+
+    		$sql .= " AND opm_products_usergroups.usergroupid IN (".$strUGs.")";
+
+    	}
+    	
+    	if ($approvalstatusid) {
+    		
+    		if ($approvalstatusid == 'p')
+    			$approvalstatusid = 0;
+    		
+    		$sql .= " AND opm_products.approvalstatusid = '".$approvalstatusid."'";
+    	
+    	}
+    	
+    	if ($sampappstatusid) {
+    		
+    		if ($sampappstatusid == 'p')
+    			$sampappstatusid = 0;
+    		
+    		$sql .= " AND opm_products.sampleappstatusid = '".$sampappstatusid."'";
+    	
+    	}
+    	
+    	if ($searchtext) {
+    	
+    		if (!$isQuickSearch) {
+    			
+    			$sql .= " AND opm_products.productname LIKE '%".addslashes($searchtext)."%'";
+    		
+    		} else {
+    		
+    			// quick search !!
+    			
+    			// split up search into individual words!
+    			
+    			$arrSearchWords = explode(" ",$searchtext);
+    			
+    			$sql .= " AND ( ";
+    			
+    			foreach ($arrSearchWords as $key => $data) {
+    				
+    				//if ($data)
+    				//echo "word".$key.":" . $data . "<br>";
+    				
+    				$sql .= " (opm_products.productname LIKE '%".addslashes($data)."%'
+    						  OR properties.property LIKE '%".addslashes($data)."%'
+    						  OR categories.category LIKE '%".addslashes($data)."%'
+    						  OR opm_productlines.productline LIKE '%".addslashes($data)."%') AND";
+    				
+    			}
+    			
+    			// remove last AND
+    			
+    			$sql = substr($sql,0,strlen($sql)-3);
+    			
+    			$sql .= ")";
+    			
+    			//die($sql);
+    		
+    		}
+    	
+    	}
+    	
+    	if ($productcode)
+    		$sql .= " AND opm_products.productcode LIKE '%".$productcode."%'";
+    		
+    		
+    		
+    	$sql .=" GROUP BY opm_products.opm_productid";
+    	
+    	
+    	if ($orderBy) {
+    	
+    		//die("orderby:".$orderBy);
+    	
+    		$sql .= " ORDER BY " . $validOrderbys[$orderBy];
+    		
+    		if ($orderByAscDesc == 'desc')
+    			$sql .= " DESC";
+    		else
+    			$sql .= " ASC";
+    	
+    	
+    	}
+    	
+    	
+    	if ($perPage)
+    		$sql .=" LIMIT $offset, $perPage";
+
+
+    	$query = $this->db->query($sql);
+    	
+    	if (!$returnTotal)
+    		return $query;
+    	else
+    		return $query->num_rows();
+    
+    }
+    
+    function fetchPendingApprovalProducts($userid,$returnTotal = false, $offset = 0, $perPage = null,$propertyid = 0) {
+    	
+    	
+    	// first we must query to get the total # of results
+    
+    	if (!$returnTotal)
+    		$sql = "SELECT opm_products.*,IFNULL(opm_approvalstatuses.approvalstatus,'Pending Approval') as approvalstatus,properties.property,categories.category,GROUP_CONCAT(opm_productlines.productline SEPARATOR ', ') as productlines, IFNULL(appstatuses2.approvalstatus,'Pending Approval') AS sampleappstatus,";
+    	else 
+    		$sql = "SELECT opm_products.opm_productid";
+
+    			
+    	$sql .=	" FROM opm_products
+    			LEFT JOIN properties ON properties.propertyid = opm_products.propertyid
+    			LEFT JOIN opm_user_app_properties ON opm_user_app_properties.propertyid = properties.propertyid AND opm_user_app_properties.userid = ".$this->db->escape($userid)." AND opm_user_app_properties.begindate < '".mktime()."' AND (opm_user_app_properties.enddate = 0 OR opm_user_app_properties.enddate > '".mktime()."')
+    			LEFT JOIN categories ON categories.categoryid = opm_products.categoryid
+    			LEFT JOIN opm_approvalstatuses ON opm_approvalstatuses.approvalstatusid = opm_products.approvalstatusid
+    			LEFT JOIN opm_approvalstatuses AS appstatuses2 ON appstatuses2.approvalstatusid = opm_products.sampleappstatusid
+    			LEFT JOIN opm_approvalstatus ON opm_approvalstatus.opm_productid = opm_products.opm_productid AND opm_approvalstatus.userid = ".$this->db->escape($userid)."
+    			LEFT JOIN opm_products_productlines ON opm_products_productlines.opm_productid = opm_products.opm_productid
+    			LEFT JOIN opm_productlines ON opm_productlines.productlineid = opm_products_productlines.productlineid
+    			";
+    	
+    	if (USE_PERMISSION_QUERY)
+    		$sql .= PERMISSION_QUERY;
+    	
+    			
+    	$sql .= " WHERE opm_user_app_properties.lineid IS NOT NULL AND opm_products.approvalstatusid = 0";
+    	
+    	if (USE_PERMISSION_QUERY)
+    		$sql .= " AND canview.id IS NOT NULL";
+    			
+    	/*if ($propertyid)
+    		$sql .= " AND opm_products.propertyid = '".$propertyid."'";
+    	
+    	if ($categoryid)
+    		$sql .= " AND opm_products.categoryid = '".$categoryid."'";
+    	
+    	if ($approvalstatusid) {
+    		
+    		if ($approvalstatusid == 'p')
+    			$approvalstatusid = 0;
+    		
+    		$sql .= " AND opm_products.approvalstatusid = '".$approvalstatusid."'";
+    	
+    	}*/    		
+    		
+    	$sql .=" GROUP BY opm_products.opm_productid";
+    	
+    	if ($perPage)
+    		$sql .=" LIMIT $offset, $perPage";
+    	
+    	
+    	$query = $this->db->query($sql);
+    	
+    	if (!$returnTotal)
+    		return $query;
+    	else
+    		return $query->num_rows();
+    
+    }
+    
+    
+    
+    function fetchProductInfo($opm_productid, $liteMode = false) // light mode is used for tooltips, etc. where not so much info is needed!
+    {
+    
+    	// get general info from products, etc tables.
+    	
+    	$sql = "SELECT opm_products.*,IFNULL(opm_approvalstatuses.approvalstatus,'Pending Approval') AS approvalstatus, IFNULL(appstatuses2.approvalstatus,'Pending Approval') AS sampleappstatus, properties.property,properties.approval_methodid,categories.category, properties.copyright,
+    			GROUP_CONCAT(opm_productlines.productline) AS productline
+    			FROM opm_products
+    			LEFT JOIN opm_products_productlines ON opm_products_productlines.opm_productid = opm_products.opm_productid
+    			LEFT JOIN opm_productlines ON opm_productlines.productlineid = opm_products_productlines.productlineid
+    			LEFT JOIN opm_approvalstatuses ON opm_approvalstatuses.approvalstatusid = opm_products.approvalstatusid
+    			LEFT JOIN opm_approvalstatuses AS appstatuses2 ON appstatuses2.approvalstatusid = opm_products.sampleappstatusid
+    			LEFT JOIN properties ON properties.propertyid = opm_products.propertyid
+    			LEFT JOIN categories ON categories.categoryid = opm_products.categoryid
+    			WHERE opm_products.opm_productid = " . $this->db->escape($opm_productid) ."
+    			GROUP BY opm_products.opm_productid";
+    	
+        $query = $this->db->query($sql);
+        
+        if ($query->num_rows() > 0)
+			$product = $query->row();
+		else 
+		 	$this->opm->displayError("product_not_found");
+		 	
+		 	
+		if (!$liteMode) {
+		
+			$CI =& get_instance();
+		
+			// get last product view
+			
+			if (isset($CI->userinfo->userid)) { // we are logged in
+			
+				$sql = "SELECT timestamp FROM opm_products_views WHERE opm_productid = " . $this->db->escape($opm_productid). " AND userid = '" . $CI->userinfo->userid . "' ORDER BY timestamp DESC LIMIT 1";
+				$query = $this->db->query($sql);
+				
+				if ($query->num_rows() > 0) {
+				
+					$row = $query->row();
+					$product->lastview = $row->timestamp;
+				
+				} else {
+				
+					$product->lastview = 0;
+				
+				}
+			
+			} else {
+				
+				$product->lastview = 0;
+				
+			}
+			
+			// get assigned usergroups
+			
+			$CI =& get_instance();
+			$CI->load->model('usergroups_model');
+				
+			
+			$product->usergroups = array();
+			
+			
+			$sql = "SELECT usergroupid FROM opm_products_usergroups WHERE opm_productid = " . $this->db->escape($opm_productid);
+			$query = $this->db->query($sql);
+			
+			foreach ($query->result() as $row) {
+				
+				$product->usergroups[] = $row->usergroupid;
+				
+				$arrChildren = $CI->usergroups_model->getChildren($row->usergroupid);
+				
+				foreach ($arrChildren as $childid) {
+				
+					$product->usergroups[] = $childid;
+				
+				}
+			
+			}
+			
+			
+			
+		
+			// get territories
+			
+			$sql = "SELECT GROUP_CONCAT(opm_territories.territory_abv) as terrList
+					FROM opm_products_territories
+					LEFT JOIN opm_territories ON opm_territories.id = opm_products_territories.territoryid
+					WHERE opm_products_territories.opm_productid = '".$opm_productid."'";
+			
+			$query = $this->db->query($sql);
+			$row = $query->row();
+			$product->territories = $row->terrList;
+			
+			// get default territories
+			
+			/*$sql = "SELECT GROUP_CONCAT(opm_territories.territory_abv) as terrList
+					FROM opm_property_territories
+					LEFT JOIN opm_territories ON opm_territories.id = opm_property_territories.territoryid
+					WHERE opm_property_territories.propertyid = '".$product->propertyid."'";
+			
+			$query = $this->db->query($sql);
+			$row = $query->row();
+			$product->defaultTerritories = $row->terrList;*/
+			
+			// get designers
+			
+			$arrDesigners = array();
+			
+			$sql = "SELECT users.userid,users.username
+					FROM opm_products_designers
+					LEFT JOIN users ON users.userid = opm_products_designers.userid
+					WHERE opm_products_designers.opm_productid = '".$opm_productid."'
+					AND users.userid IS NOT NULL";
+			
+			$query = $this->db->query($sql);
+			
+			foreach ($query->result() as $row)
+				$arrDesigners[] = array("userid"=>$row->userid,"username"=>$row->username);
+			
+			$product->designers = $arrDesigners;
+			
+			// get separators
+			
+			$arrSeparators = array();
+			
+			$query = $CI->usergroups_model->fetchUsergroupsByParent($CI->config->item('separatorsGroupID'),$opm_productid);
+			
+			foreach ($query->result() as $row)
+				$arrSeparators[] = array("usergroupid"=>$row->usergroupid,"usergroup"=>$row->usergroup);
+			
+			$product->separators = $arrSeparators;
+			
+			// get screen printers
+			
+			$arrScreenprinters = array();
+			
+			$query = $CI->usergroups_model->fetchUsergroupsByParent($CI->config->item('screenprintersGroupID'),$opm_productid);
+			
+			foreach ($query->result() as $row)
+				$arrScreenprinters[] = array("usergroupid"=>$row->usergroupid,"usergroup"=>$row->usergroup);
+			
+			$product->screenprinters = $arrScreenprinters;
+			
+			
+			// get licensees
+			
+			$arrLicensees = array();
+			
+			$query = $CI->usergroups_model->fetchPropertyLicensees($product->propertyid);
+			
+			foreach ($query->result() as $row)
+				$arrLicensees[] = array("usergroupid"=>$row->usergroupid,"usergroup"=>$row->usergroup);
+			
+			$product->licensees = $arrLicensees;
+				
+				
+			// get imageids
+			
+			$sql = "SELECT GROUP_CONCAT(opm_images.imageid) as imageids FROM opm_images WHERE opm_images.opm_productid = '".$opm_productid."' GROUP BY opm_images.opm_productid";
+			$query = $this->db->query($sql);
+			if(isset($query->row()->imageids)) 
+				$product->imageids = $query->row()->imageids;
+			else
+				$product->imageids = "";
+			
+			$product->imageids = explode(",",$product->imageids); // convert to array 
+			
+			
+			// get approval status info
+			
+			$sql = "SELECT users.userid,users.username,users.login,IFNULL(opm_approvalstatuses.approvalstatus,'Pending Approval') as approvalstatus,IFNULL(opm_approvalstatus.approvalstatusid,0) as approvalstatusid, opm_user_app_properties.approvalrequired
+			FROM users
+			LEFT JOIN opm_user_app_properties ON opm_user_app_properties.userid = users.userid
+			LEFT JOIN opm_approvalstatus ON opm_approvalstatus.userid = users.userid AND opm_approvalstatus.opm_productid = '".$opm_productid."'
+			LEFT JOIN opm_approvalstatuses ON opm_approvalstatuses.approvalstatusid = opm_approvalstatus.approvalstatusid
+			WHERE opm_user_app_properties.propertyid = '".$product->propertyid."'
+			AND opm_user_app_properties.begindate < '".$product->timestamp."'
+			AND (opm_user_app_properties.enddate = 0 OR opm_user_app_properties.enddate > '".$product->timestamp."')
+			ORDER BY users.username";
+			
+			$query2 = $this->db->query($sql);
+			$product->approvalInfo = $query2->result();
+			
+			
+			// get "my approval status", first check if user is approval contact!
+			
+			if ($product->approvalInfo) {
+			
+				$appRequired = false;
+			
+				foreach ($product->approvalInfo as $ai) {
+					$arrAppUsers[] = $ai->userid;
+					
+					// is user's approval requird?
+					if (isset($CI->userinfo->userid)) {
+						
+						if ($ai->userid == $CI->userinfo->userid && $ai->approvalrequired == '1')
+							$appRequired = true;
+					}
+					
+				}
+				
+				
+				if (isset($CI->userinfo->userid) && in_array($CI->userinfo->userid, $arrAppUsers)) {
+						
+					if ($appRequired) {
+				
+						$sql = "SELECT opm_approvalstatus.approvalstatusid, opm_approvalstatuses.approvalstatus
+								FROM opm_approvalstatus
+								LEFT JOIN opm_approvalstatuses ON opm_approvalstatuses.approvalstatusid = opm_approvalstatus.approvalstatusid
+								WHERE opm_approvalstatus.opm_productid = '".$product->opm_productid."'
+								AND userid = '".$CI->userinfo->userid."'";
+						
+						$query = $this->db->query($sql);
+						
+						if ($row = $query->row()) {
+							$product->myStatus = $row;
+						} else {
+							$product->myStatus->approvalstatusid = "";
+							$product->myStatus->approvalstatus = "Pending Approval";
+						}
+					
+					}
+				
+				}
+			
+			}
+			
+			
+			// get latest forum entry
+			
+		   $sql = "SELECT opm_forum.*
+					FROM opm_forum
+					WHERE opm_forum.opm_productid = '".$opm_productid."'
+					ORDER BY timestamp DESC
+					LIMIT 1";
+				
+			$query = $this->db->query($sql);
+			$product->latestForum = $query->row();
+			
+			// get latest history entry
+			
+		   $sql = "SELECT opm_history.*
+					FROM opm_history
+					WHERE opm_history.opm_productid = '".$opm_productid."'
+					ORDER BY timestamp DESC
+					LIMIT 1";
+				
+			$query = $this->db->query($sql);
+			$product->latestHistory = $query->row();
+			
+			
+			// determine if we show "new history since last view and new comments since last view"!
+			
+        }
+  
+		return $product;
+		 	
+        
+    }
+    
+    function fetchProductInfoByImageID($imageid) {
+    	
+    	// get general info from products, etc tables.
+    	
+    	$sql = "SELECT opm_products.*,IFNULL(opm_approvalstatuses.approvalstatus,'Pending Approval') as approvalstatus,properties.property,properties.approval_methodid,categories.category, properties.copyright
+    			FROM opm_images
+    			LEFT JOIN opm_products ON opm_products.opm_productid = opm_images.opm_productid    			
+    			LEFT JOIN opm_approvalstatuses ON opm_approvalstatuses.approvalstatusid = opm_products.approvalstatusid
+    			LEFT JOIN properties ON properties.propertyid = opm_products.propertyid
+    			LEFT JOIN categories ON categories.categoryid = opm_products.categoryid
+    			WHERE opm_images.imageid = '" . $imageid ."'
+    			GROUP BY opm_products.opm_productid";
+    	
+        $query = $this->db->query($sql);
+        
+        if ($query->num_rows() > 0)
+			$product = $query->row();
+		else 
+		 	$this->opm->displayError("product_not_found");
+    
+    	return $product;
+    
+    }
+    
+    function saveProduct($arrPostData) {
+    
+    	/*echo "<pre>";
+    	print_r($arrPostData);
+    	echo "</pre>";
+    	die();*/
+
+		$errors = false;
+     	
+     	if ($arrPostData['opm_productid'] && checkPerms('can_edit_products',true)) { // we have a productid, update
+     	
+     		$sql = "UPDATE opm_products
+     				SET propertyid = ". $this->db->escape($arrPostData['propertyid']).",
+     				productname = ".$this->db->escape($arrPostData['productname']).",
+     				productcode = ".$this->db->escape($arrPostData['productcode']).",
+     				categoryid = ".$this->db->escape($arrPostData['categoryid']).",
+     				copyrightaddendums = ".$this->db->escape($arrPostData['copyrightaddendums']).",
+     				filmnumber = ".$this->db->escape($arrPostData['filmnumber']).",
+     				artworkcharges = ".$this->db->escape($arrPostData['artworkcharges']).",
+     				presentationstyles = ".$this->db->escape($arrPostData['presentationstyles']).",
+     				duedate = ".$this->db->escape($arrPostData['duedate']).",
+     				filmlocations = ".$this->db->escape($arrPostData['filmlocations'])." ";
+     				
+     				
+     		$sql .= " WHERE opm_productid = '".$arrPostData['opm_productid']."'";
+
+    		if ($query = $this->db->query($sql))
+       			$opm_productid = $arrPostData['opm_productid'];
+       		else
+       			$errors = true;
+    
+     	
+     	} else { // new product, insert
+     	
+     		if (checkPerms('can_add_products',true)) {
+     		
+				$sql = "INSERT INTO opm_products (propertyid,productname,productcode,categoryid,filmnumber,copyrightaddendums,artworkcharges,presentationstyles,filmlocations,duedate,createdby,timestamp)
+					VALUES (". $this->db->escape($arrPostData['propertyid']).",".$this->db->escape($arrPostData['productname']).",".$this->db->escape($arrPostData['productcode']).",".$this->db->escape($arrPostData['categoryid']).",".$this->db->escape($arrPostData['filmnumber']).",".$this->db->escape($arrPostData['copyrightaddendums']).",".$this->db->escape($arrPostData['artworkcharges']).",".$this->db->escape($arrPostData['presentationstyles']).",".$this->db->escape($arrPostData['filmlocations']).",".$this->db->escape($arrPostData['duedate']).",".$this->userinfo->userid.",'".mktime()."')";
+			
+				
+				if ($query = $this->db->query($sql)) {
+				
+					$opm_productid = $this->db->insert_id();
+					$this->opm->addHistoryItem($opm_productid,"Product created by " . $this->userinfo->username); 
+					
+					// add default usergroups to product
+					
+					$sql = "INSERT INTO opm_products_usergroups (opm_productid,usergroupid)
+							VALUES($opm_productid,".$this->config->item('bravadoInternalGroupID')."),
+							($opm_productid,".$this->config->item('propertyContactsGroupID')."),
+							($opm_productid,".$this->config->item('externalViewingGroupID')."),
+							($opm_productid,".$this->config->item('licenseeGroupID')."),
+							($opm_productid,".$this->config->item('designersGroupID').")
+							";
+					
+					$query = $this->db->query($sql);
+					
+				} else {
+					$errors = true;
+				}
+			}
+     	
+     	}
+     	
+     	if ($errors) {
+     	
+     		return false;
+     	
+     	} else { 
+     	
+     		// record product line info
+     	
+     		$sql = "DELETE FROM opm_products_productlines WHERE opm_productid = '".$opm_productid."'";
+     		$query = $this->db->query($sql);
+     		
+     		if ($arrPostData['productLineIDs']) { // some productlineids have been assigned.
+     			
+     			foreach ($arrPostData['productLineIDs'] as $plid) {
+     			
+     				$sql = "INSERT INTO opm_products_productlines (opm_productid,productlineid) VALUES ('".$opm_productid."','".$plid."')";
+     				$query = $this->db->query($sql);
+     				
+     			}
+     		
+     		}
+     		
+     		// record designer info
+     	
+     		$sql = "DELETE FROM opm_products_designers WHERE opm_productid = '".$opm_productid."'";
+     		$query = $this->db->query($sql);
+     		
+     		if ($arrPostData['designerIDs']) { // some designers have been assigned.
+     			
+     			foreach ($arrPostData['designerIDs'] as $userid=>$onoff) {
+     			
+     				$sql = "INSERT INTO opm_products_designers (opm_productid,userid) VALUES ('".$opm_productid."','".$userid."')";
+     				$query = $this->db->query($sql);
+     				
+     			}
+     		
+     		}
+     		
+     		return $opm_productid;
+     	
+     	}
+    
+    }
+    
+
+    
+    function deleteProduct($opm_productid)
+    {
+    
+    	// Delete!
+    	
+    	$arrTables = array(
+    	
+    		"opm_products",
+    		"opm_approvalstatus",
+    		"opm_history",
+    		"opm_images",
+    		"opm_masterfiles",
+    		"opm_products_designers",
+    		"opm_products_productlines",
+    		"opm_products_territories",
+    		"opm_products_usergroups",
+    		"opm_products_views",
+    		"opm_separations"
+    	
+    	);
+    	
+    	foreach ($arrTables as $table) {
+    	
+    		$sql = "DELETE FROM $table WHERE opm_productid = ".$this->db->escape($opm_productid);
+       
+			$this->db->query($sql);
+   
+    	}
+    	
+    	return true;
+    	
+        
+    }
+    
+    // image functions
+    
+    function fetchImage($imageid)
+    {
+    
+    	// get general info from products, etc tables.
+    	
+    	$sql = "SELECT * FROM opm_images WHERE imageid = '" . $imageid ."'";
+        $query = $this->db->query($sql);
+       
+       
+       	 if ($query->num_rows() > 0) {
+		   return $query->row();
+		 } else {
+		 
+		 	return false;
+		
+		 }
+		 	
+        
+    }
+    
+    function setLastModified($opm_productid)
+    {
+
+    	$sql = "UPDATE opm_products SET lastmodified = '".mktime()."' WHERE opm_productid = " . $this->db->escape($opm_productid);
+        $query = $this->db->query($sql);
+		return true;
+        
+    }
+    
+    function setViewTimestamp($opm_productid)
+    {
+
+    	$sql = "INSERT INTO opm_products_views (opm_productid,userid,timestamp)
+    			VALUES (".$this->db->escape($opm_productid).",".$this->userinfo->userid.",".mktime().")";
+        $query = $this->db->query($sql);
+		return true;
+        
+    }
+    
+    function setSampAppStatus($opm_productid,$appstatusid) {
+    	
+    	$sql = "UPDATE opm_products
+    			SET sampleappstatusid = ".$this->db->escape($appstatusid)."
+    			WHERE opm_productid = " . $this->db->escape($opm_productid);
+        
+        if ($query = $this->db->query($sql))
+			return true;
+		else
+			return false;
+    
+    }
+
+}
+
+?>

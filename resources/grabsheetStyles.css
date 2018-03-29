@@ -1,0 +1,88 @@
+
+#items_res {
+	overflow: auto;
+}
+
+ 
+#items.ajax-loading {
+	padding: 20px 0;
+	background: url(http://demos.mootools.net/demos/Group/spinner.gif) no-repeat center;
+}
+
+#items
+{
+	float: left;
+	width: 350px;
+	border: 1px solid #f9f9f9;
+}
+ 
+#cart
+{
+	float: right;
+	width: 280px;
+	background-color: #fff;
+	border: 1px solid #f9f9f9;
+	padding-bottom: 50px;
+}
+ 
+#cart .info
+{
+	color: #444;
+	font-size: 0.9em;
+	text-align: center;
+	font-weight: bold;
+ 
+}
+
+#cart .tipper 
+{
+	display: none;
+}
+ 
+.item {
+	float: left;
+	position: relative;
+	width: 60px;
+	height: 60px;
+	border: 1px solid #eee;
+	margin: 10px;
+	border-right: 2px solid #ddd;
+	border-bottom: 2px solid #ddd;
+	background-color: #fff;
+	background-position: left top;
+	background-repeat: no-repeat;
+	cursor: move;
+}
+#cart .item {
+	width: 60px;
+	height: 60px;
+	margin: 5px;
+	border-width: 1px;
+	cursor: default;
+}
+ 
+.item span
+{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	font-size: 0.8em;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+ 
+}
+
+.gsRedX {
+	
+	color:red;
+	display:none;
+	
+}
+
+.gsRedXOn {
+	
+	color:red;
+	display:inline;
+	
+}

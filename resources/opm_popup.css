@@ -1,0 +1,41 @@
+/* 20111217 mark */
+
+/* this is for new-style, non-table-layout popups */
+
+html {
+	
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+	color: #232323;
+	background-color: #fff;
+	font-family: "Lucida Grande";
+	margin: 2em;
+	font-size: 9pt;
+}
+
+h1 {
+	
+	font-size: 1.5em;
+}
+
+label {
+	
+	margin-right: 0.25em;
+}
+
+input, 
+select, 
+textarea {
+	
+	border: 1px solid #9c9c9c;
+	padding: 2px;
+}
+
+input.date {
+
+	width: 7em;	
+}

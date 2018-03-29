@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title><?=$this->config->item('title_prepend');?> <?= $page_title ?></title>
+		
+		<link rel="stylesheet" type="text/css" href="<?=base_url();?>resources/opm_styles.css">
+		<link rel="stylesheet" type="text/css" href="<?=base_url();?>resources/opm_upload.css">
+		
+		<!--[if lt IE 9]>
+ 			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		<!--<script src="<?=base_url();?>resources/js/jquery-1.6.2.min.js"></script>-->
+		
+		<script src="http://code.jquery.com/jquery-1.6.3.min.js"></script>
+		
+		<script src="<?=base_url();?>resources/js/jquery.filedrop.js"></script>
+		
+		<script language="javascript">
+		
+			$(function(){
+	
+				var dropbox = $('#fileDropArea'),
+					message = $('.message', dropbox);
+				
+				dropbox.filedrop({
+					// The name of the $_FILES entry:
+					paramname:'pic',
+					
+					maxfiles: 5,
+			    	maxfilesize: 200,
+					url: '<?=base_url();?>upload/handleHtml5Upload',
+					
+					uploadFinished:function(i,file,response){
+						$.data(file).addClass('done');
+						// response is the JSON object that post_file.php returns
+						alert(response);
+					},
+					
+			    	error: function(err, file) {
+						switch(err) {
+							
+							default:
+								alert(err);
+							
+							/*case 'BrowserNotSupported':
+								showMessage('Your browser does not support HTML5 file uploads!');
+								break;
+							case 'TooManyFiles':
+								alert('Too many files! Please select 5 at most! (configurable)');
+								break;
+							case 'FileTooLarge':
+								alert(file.name+' is too large! Please upload files up to 2mb (configurable).');
+								break;
+							default:
+								break;
+								
+							*/
+						}
+					},
+					
+					// Called before each upload is started
+					beforeEach: function(file){
+						/*if(!file.type.match(/^image\//)){
+							alert('Only images are allowed!');
+							
+							// Returning false will cause the
+							// file to be rejected
+							return false;
+						}*/
+					},
+					
+					uploadStarted:function(i, file, len){
+						createImage(file);
+					},
+					
+					progressUpdated: function(i, file, progress) {
+						$.data(file).find('.progress').width(progress);
+					}
+			    	 
+				});
+				
+				var template = '<div class="preview">'+
+									'<span class="imageHolder">'+
+										'<img />'+
+										'<span class="uploaded"></span>'+
+									'</span>'+
+									'<div class="progressHolder">'+
+										'<div class="progress"></div>'+
+									'</div>'+
+								'</div>'; 
+				
+				
+				function createImage(file){
+			
+					var preview = $(template), 
+						image = $('img', preview);
+						
+					var reader = new FileReader();
+					
+					image.width = 100;
+					image.height = 100;
+					
+					reader.onload = function(e){
+						
+						// e.target.result holds the DataURL which
+						// can be used as a source of the image:
+						
+						image.attr('src',e.target.result);
+					};
+					
+					// Reading the file as a DataURL. When finished,
+					// this will trigger the onload function above:
+					reader.readAsDataURL(file);
+					
+					message.hide();
+					preview.appendTo(dropbox);
+					
+					// Associating a preview container
+					// with the file, using jQuery's $.data():
+					
+					$.data(file,preview);
+				}
+			
+				function showMessage(msg){
+					message.html(msg);
+				}
+			
+			});
+		
+		</script>
+		
+		
+	</head>
+	<body>
+		
+		<div id="uploadDiv" style="width:550px;margin-left:auto;margin-right:auto;">
+		
+			<!--
+			
+			<form name="uploadForm" action="<?= base_url(); ?>files/upload/<?=$opm_productid?>/<?=$fileType?>" method="post" enctype="multipart/form-data" id="photoupload">
+		
+			<table border="0" cellpadding="0" cellspacing="0" width="550">
+				<tr>
+					<td class="uploadHeader">OPM 2.0 Uploader</td>
+					<td align="right"><input type="file" name="Filedata" id="opmFile" />&nbsp;&nbsp;<input type="submit" value="Upload Files" /></td>
+				</tr>
+			</table>
+					
+				<ul class="photoupload-queue" id="photoupload-queue">
+					<li style="display: none" />
+				</ul>
+
+			</form>
+			
+			-->
+			
+			* The up arrow starts the upload!.
+			
+			
+			<div id="fileDropArea">
+				<span class="message">Drop images here to upload. <br /><i>(they will only be visible to you)</i></span>
+			</div>
+			
+			
+			<!--<h2>Uploads have been disabled while we perform some routine maintainance. Check back soon.</h2>-->
+			
+			<!--<applet name="jumpLoaderApplet"
+					code="jmaster.jumploader.app.JumpLoaderApplet.class"
+					archive="<?=base_url();?>resources/jumploader_z.jar"
+					width="550"
+					height="320" 
+					mayscript>
+				<param name="uc_uploadUrl" value="<?=base_url();?>files/upload/<?=$opm_productid?>/<?=$fileType?>">
+				<param name="uc_fileParameterName" value="Filedata"/>
+				<? /* <param name="uc_partitionLength" value="1048576"/> */ ?>
+				<param name="vc_mainViewFileListViewVisible" value="false"/>
+				<param name="vc_mainViewFileTreeViewVisible" value="false"/>
+				
+			</applet>-->
+		
+		</div>
+
+	</body>
+</html>

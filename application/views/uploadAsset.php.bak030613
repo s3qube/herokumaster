@@ -1,0 +1,104 @@
+
+<script language="javascript">
+	
+	$(document).ready(function() {
+		
+		$("#uploadForm").validate();
+		
+		
+		
+	
+	});
+	
+		
+		function uploaderFilePartitionUploaded( uploader, file ) {
+		
+			alert( "uploaderFilePartitionUploaded, index=" + file.getIndex() + ", partition=" + file.getUploadedPartitionCount() + ", response=" + file.getResponseContent() );
+		
+		}
+
+		function uploaderStatusChanged( uploader ) {
+		
+			//alert( "uploaderStatusChanged, status=" + uploader.getStatus() );
+		
+		}
+	
+</script>		
+		
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+	<tr>
+		<td valign="top">
+			
+			<form name="uploadForm" id="uploadForm" action="<?= base_url(); ?>properties/saveAsset/<?=$p->propertyid?>" method="post" enctype="multipart/form-data" id="photoupload">
+				
+				<input type="hidden" name="propertyid" value="<?= $p->propertyid ?>">
+				<input type="hidden" name="random_str" value="<?= $random_str ?>">
+				
+				<h3 class="userField">Step 1: Upload Asset</h3>
+				
+				<applet name="jumpLoaderApplet"
+						code="jmaster.jumploader.app.JumpLoaderApplet.class"
+						archive="<?=base_url();?>resources/jumploader_z.jar"
+						width="550"
+						height="320" 
+						mayscript>
+					<param name="uc_uploadUrl" value="<?=base_url();?>files/upload/<?=$p->propertyid?>/asset/<?= $random_str ?>">
+					<param name="uc_fileParameterName" value="Filedata"/>
+					<? /* <param name="uc_partitionLength" value="1048576"/> */ ?>
+					<param name="vc_mainViewFileListViewVisible" value="false"/>
+					<param name="vc_mainViewFileTreeViewVisible" value="false"/>
+					<param name="ac_fireUploaderStatusChanged" value="true"/>
+					<param name="ac_fireUploaderFilePartitionUploaded" value="true"/>
+					
+				</applet>	
+				
+				<br /><br />
+				
+				<h3 class="userField">Asset Type</h3>
+				
+				<select name="assetTypeId" class="userField required">
+				
+					<option value="">Please Select...</option>
+					
+					<? foreach ($assetTypes->result() as $at) { ?>
+					
+						<option value="<?= $at->id ?>"><?= $at->assettype ?></option>
+					
+					<? } ?>
+				
+				</select>
+								
+				<br /><br />
+				
+				<h3 class="userField">Asset Name</h3>
+				<input type="text" class="forumPostTitle required" name="assetName" />
+				
+				<br /><br />
+				
+				<h3 class="userField">Asset Details</h3>
+				<textarea class="forumPost" name="assetDetail"></textarea>
+				
+				<br /><br />
+				
+				<h3 class="userField">Asset Thumbnail</h3>
+				<input type="file" class="forumPostTitle" name="assetThumbnail" />
+				
+				<br /><br />
+			
+					
+		
+		</div>
+		
+			<table align="right" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td align="right"><input type="submit" value="Save">&nbsp;&nbsp;&nbsp;</td>
+				</tr>
+			</table>
+			
+		</form>
+		
+		<br /> <br />
+			
+		</td>
+	</tr>
+</table>

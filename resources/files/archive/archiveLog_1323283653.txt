@@ -1,0 +1,9 @@
+ARCHIVE LOG Wednesday 7th of December 2011 01:47:33 PM
+--------------------
+
+Files Archived: 2
+Files With Errors: 0
+
+
+Test Property - Test Auto Check - Master File # - 30014 was archived succesfully.
+Test Property - Test Auto Check - Separation # - 17717 was archived succesfully.

@@ -1,0 +1,28 @@
+
+
+<Charges>
+
+	<Charge>
+	
+		<DocumentNumber>FE12374</DocumentNumber>
+		<PostDate>02/12/12</PostDate>
+		<GlAccount>875879</GlAccount>
+		<PropertyCode>3463</PropertyCode>
+		<ChannelCode>100</ChannelCode>
+		<Amount>46.24</Amount>
+	
+	</Charge>
+	
+	<Charge>
+	
+		<DocumentNumber>FE122274</DocumentNumber>
+		<PostDate>04/11/12</PostDate>
+		<GlAccount>23423</GlAccount>
+		<PropertyCode>5432</PropertyCode>
+		<ChannelCode>200</ChannelCode>
+		<Amount>565.24</Amount>
+	
+	</Charge>
+	
+</Charges>
+

@@ -1,0 +1,1 @@
+<?= $username ?> Sample <?= $approvalstatus ?> <?= $productInfo->property ?> - <?= $productInfo->productname ?>

@@ -1,0 +1,715 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+	<head>
+		<title>Bravado OPM - Edit Invoice # 16</title>
+		<script language="javascript">
+			
+			var base_url = 'http://opm.bravadousa.com:8888/';
+			
+						
+						
+						
+		</script>
+			
+				
+			
+		<script type="text/javascript" src="http://opm.bravadousa.com:8888/resources/js/jquery-1.3.2.min.js"></script>
+
+		
+			
+		<script type="text/javascript" src="http://opm.bravadousa.com:8888/resources/js/jquery.autocomplete.js"></script>
+
+		
+			
+		<script type="text/javascript" src="http://opm.bravadousa.com:8888/resources/js/jquery.animate-colors-min.js"></script>
+
+		
+			
+		<script type="text/javascript" src="http://opm.bravadousa.com:8888/resources/js/opm_scripts.js"></script>
+
+		
+			
+		<script type="text/javascript" src="http://opm.bravadousa.com:8888/resources/js/shadowbox3.js"></script>
+
+		
+			
+		<link rel="stylesheet" type="text/css" href="http://opm.bravadousa.com:8888/resources/opm_styles.css">
+		<link rel="stylesheet" type="text/css" href="http://opm.bravadousa.com:8888/resources/shadowbox_new.css">
+		<link rel="stylesheet" type="text/css" href="http://opm.bravadousa.com:8888/resources/shadowbox.css">
+		<link rel="stylesheet" type="text/css" href="http://opm.bravadousa.com:8888/resources/datepicker.css">
+		<link rel="stylesheet" type="text/css" href="http://opm.bravadousa.com:8888/resources/autocompleteStyles.css">
+		
+		<!--<style type="text/css">
+		
+			BODY {
+						
+				background-image: url('http://opm.bravadousa.com:8888/resources/images/nav_bg.gif');
+				background-repeat: repeat-x;
+				background-position: 0 83px
+			
+			}
+		
+		</style>-->
+		
+				
+	</head>
+	<body onload="MM_preloadImages('http://opm.bravadousa.com:8888/resources/images/nav_products_over.gif','http://opm.bravadousa.com:8888/resources/images/nav_properties_over.gif','http://opm.bravadousa.com:8888/resources/images/nav_production_over.gif','http://opm.bravadousa.com:8888/resources/images/nav_administration_over.gif');">
+		
+		<div id="container">
+
+			<div id="maincontent">
+				
+								
+				<br /><br />
+				
+				<div id="content">
+<script language="javascript">
+
+	// below variable controls display of onunload message. can be set false for 
+	showWarningMessage = true;
+
+	window.onload = function(){
+      
+		Shadowbox.init({
+		
+			skipSetup: true
+		
+		});
+		
+				
+				      	      
+	};
+	
+	function invoiceTooltip(target_items){
+		
+		 $(target_items).each(function(i){
+				
+			var my_tooltip = $("#invoiceChannelSelector");
+	
+			$(this).mouseover(function(){
+					
+					// set the value of channelChargeID, so it can be set via ajax
+					
+					$('#channelChargeID').val($(this).attr('id'));
+					
+					// get the position of the trigger
+					
+					var pos = $(this).offset();  
+					var width = $(this).width();
+					
+					// hide, move, then fade in the tooltip in the right position
+					
+					my_tooltip.css( { "display" : "none" } ).css( { "left": (pos.left + width) + "px", "top":pos.top + "px" } ).fadeIn(100);
+			
+			});
+			
+			my_tooltip.mouseleave(function(){
+			
+				my_tooltip.fadeOut(400);
+			
+			});
+		
+		
+		});
+	
+	}
+	
+	
+	function assignChannel(channelcode) {
+	 
+		var chargeid = $('#channelChargeID').val();
+		
+		$.post('http://opm.bravadousa.com:8888/invoices/ajaxAssignChannelCode/', { chargeid: chargeid, channelcode: channelcode }, function(data) {
+			
+			//alert(data);
+			
+			if (data != 'error') {
+			
+				$("#invoiceChannelSelector").css( { "display" : "none" } );
+				$('#'+chargeid).html(data);
+			
+			} else {
+				alert("Channel Code could not be assigned. Please contact OPM tech support.");
+			}
+	
+		});
+		
+		//alert("assigning channelcode:"+channelcode+" to chargeid:"+chargeid);
+	
+	}
+	
+	
+	function openShadowbox($url,$width,$height) {
+	
+		Shadowbox.open({
+			height:     $height,
+	        width:      $width,
+	        content:    contentUrl,
+	        player:     "iframe"
+	        
+	    });
+	
+	}
+	
+	function checkForm() {
+	
+		showWarningMessage = false;
+	
+	}
+	
+		
+	
+			
+	
+		function reloadNotes() {
+			
+			$('#notes').load('http://opm.bravadousa.com:8888/ajax/getInvoiceNotes/16');
+			
+		}
+		
+		
+		function addNote() {
+	
+			contentUrl = base_url + 'invoices/createSaveNote/16';
+			openShadowbox(contentUrl,500,260);	
+		
+		}
+		
+		function addProduct() {
+	
+			contentUrl = base_url + 'invoices/addProduct/16';
+			openShadowbox(contentUrl,550,600);	
+		
+		}
+		
+		function editCharge(chargeID,opm_productid) {
+	
+			
+	
+			contentUrl = base_url + 'invoices/addEditCharge/16/' + chargeID + "/" + opm_productid;
+			openShadowbox(contentUrl,550,600);	
+		
+		}
+		
+		function reloadInvoice() {
+			
+			$('#invItems').load('http://opm.bravadousa.com:8888/ajax/getInvoiceContents/16/print');
+			
+		}
+		
+		function executeInvAction(invoiceDetailID,action,opm_productid) {
+		
+			//alert("invdetailid:"+invoiceDetailID+"\naction:"+action);
+			
+			if (action == 'addCharge') {
+			
+				contentUrl = base_url + 'invoices/addEditCharge/16/0/' + opm_productid;
+				openShadowbox(contentUrl,550,600);
+			
+			} else if (action == 'removeProduct') {
+			
+				if (confirm("Are you sure you want to remove this product?")) {
+				
+					location.href = base_url + 'invoices/removeProduct/16/' + opm_productid;
+				
+				}
+			
+			}
+		
+		}
+		
+		function editInvoice() {
+
+			contentUrl = base_url + 'invoices/editInvoice/16';
+			openShadowbox(contentUrl,550,600);	
+		
+		}
+		
+		function viewHistory(id) {
+
+			contentUrl = base_url + 'ajax/invoiceHistoryView/16';
+			
+			Shadowbox.open({
+				height:     350,
+		        width:      800,
+		        content:    contentUrl,
+		        player:     "iframe"
+		        
+		    });
+		
+		}
+	
+		
+	function initInvoice() {
+
+		contentUrl = base_url + 'invoices/initInvoice/';
+		openShadowbox(contentUrl,550,600);	
+	
+	}
+	
+	
+	
+	
+	
+	 $(document).ready(function() {
+      
+      	      	
+     	       	
+      	         
+         	//setTimeout("window.print()",1500);
+         	
+         
+                 
+         
+
+      });
+
+</script>
+
+<form name="invoiceform" id="invoiceform" action="http://opm.bravadousa.com:8888/invoices/save" method="post" enctype="Multipart/Form-Data" onsubmit="return checkForm();">
+
+<table width="95%" border="0" align="center" cellpadding="0" cellspacing="0">
+	
+	<tr>
+		
+		<td>
+		
+							
+				<input type="hidden" name="invoiceid" value="16" />
+				<div style="float:right;"   class="invModuleNoEdit" >
+				
+											ID: #16<br />
+										REF#: 12345653<br />
+					TAX ID: XXX-XX-<br />
+											CREATED: 02/28/11									
+				</div>
+		
+						
+			<!--<img src="http://opm.bravadousa.com:8888/resources/images/inv_placeholder.gif" alt="inv_placeholder" width="243" height="62" />-->
+			
+						
+								
+				<!--	<img src="http://opm.bravadousa.com:8888/resources/autoInvoiceImage.php?text=Nicole Militello" alt="inv_placeholder" />-->
+		
+				
+						
+			<br />
+			
+						
+				<div style="margin-top:0px; width:220px; margin-bottom:30px;"  class="invModuleNoEdit" ></div>
+			
+			
+			
+								<div id="invoiceLIArea">
+					
+					<div id="invItems">
+<div id="invLineItem_196" class="invLineItem">
+				
+	<table border="0" cellpadding="0" cellspacing="0" width="640">
+		<tr>
+			<td valign="top" width="62">
+				<img src="http://dev.opm.com/resources/images/x.gif" class="invLIImg" id="invLIImg_196" alt="invImgPlaceHolder" width="62" height="62" />
+				
+				
+			
+			</td>
+			<td valign="top" class="invLiProdText">
+				<a href="http://dev.opm.com/resources/images/x.gif" target="_blank">As I Lay Dying - Kidney - T-Shirts</a>
+			
+				<div class="liChargeDetail" id="liChargeDetail_196">
+				
+					<table border="0" cellpadding="0" cellspacing="0" width="380">
+					
+												
+							<tr>
+																
+									<td width="260">Design Approval Fee</a></td>
+								
+																
+								<td align="right">&#36;600.00</td>
+								
+								<td align="right">
+								
+																		
+										<span id="invChannel_44">
+											
+																				
+																							
+													<a href="#" onclick="return false;" class="invoiceChnlTrig" id="44">chnl</a>
+											
+																					
+																				
+										</span>
+									
+																		
+								</td>
+								
+							</tr>
+						
+												
+							<tr>
+																
+									<td width="260">Separations</a></td>
+								
+																
+								<td align="right">&#36;325367.00</td>
+								
+								<td align="right">
+								
+																		
+										<span id="invChannel_45">
+											
+																				
+																							
+													<a href="#" onclick="return false;" class="invoiceChnlTrig" id="45">chnl</a>
+											
+																					
+																				
+										</span>
+									
+																		
+								</td>
+								
+							</tr>
+						
+						
+					</table>
+					
+				
+				</div>
+			
+			</td>
+			<td valign="top" align="right" class="invLiProdText">&#36;325,967.00<br />
+				
+								
+			</td>
+		</tr>
+	</table>
+
+
+</div>
+
+<div class="invoiceDiv"></div>
+
+<div id="invoiceImgTooltip_196" class="invoiceImgTooltip">
+				
+	<img src="http://dev.opm.com/resources/images/x.gif" class="invoiceTooltipImg" width="350" height="350" />
+
+</div>
+
+<script language="javascript">
+
+	$("#invLIImg_196").ready(function()
+    { 
+       
+		$("#invLIImg_196").tooltip({
+
+			// use div.tooltip as our tooltip
+			tip: '#invoiceImgTooltip_196',
+			
+			position: 'center right',
+			
+			effect: 'fade'
+
+
+	
+		});
+
+   
+    });
+
+    
+    $("#liChargeDetail_196").ready(function()
+    { 
+    
+    	invoiceTooltip("a.invoiceChnlTrig");
+
+   
+    });
+
+</script>
+
+<div id="invLineItem_7712" class="invLineItem">
+				
+	<table border="0" cellpadding="0" cellspacing="0" width="640">
+		<tr>
+			<td valign="top" width="62">
+				<img src="http://dev.opm.com/resources/images/x.gif" class="invLIImg" id="invLIImg_7712" alt="invImgPlaceHolder" width="62" height="62" />
+				
+				
+			
+			</td>
+			<td valign="top" class="invLiProdText">
+				<a href="http://opm.bravadousa.com:8888/products/view/7712" target="_blank">Alicia Keys - Large A Mens T Shirt - T-Shirts</a>
+			
+				<div class="liChargeDetail" id="liChargeDetail_7712">
+				
+					<table border="0" cellpadding="0" cellspacing="0" width="380">
+					
+												
+							<tr>
+																
+									<td width="260">Submission Fee</a></td>
+								
+																
+								<td align="right">&#36;600.00</td>
+								
+								<td align="right">
+								
+																		
+										<span id="invChannel_43">
+											
+																				
+																							
+													<a href="#" onclick="return false;" class="invoiceChnlTrig" id="43">chnl</a>
+											
+																					
+																				
+										</span>
+									
+																		
+								</td>
+								
+							</tr>
+						
+						
+					</table>
+					
+				
+				</div>
+			
+			</td>
+			<td valign="top" align="right" class="invLiProdText">&#36;600.00<br />
+				
+								
+			</td>
+		</tr>
+	</table>
+
+
+</div>
+
+<div class="invoiceDiv"></div>
+
+<div id="invoiceImgTooltip_7712" class="invoiceImgTooltip">
+				
+	<img src="http://dev.opm.com/resources/images/x.gif" class="invoiceTooltipImg" width="350" height="350" />
+
+</div>
+
+<script language="javascript">
+
+	$("#invLIImg_7712").ready(function()
+    { 
+       
+		$("#invLIImg_7712").tooltip({
+
+			// use div.tooltip as our tooltip
+			tip: '#invoiceImgTooltip_7712',
+			
+			position: 'center right',
+			
+			effect: 'fade'
+
+
+	
+		});
+
+   
+    });
+
+    
+    $("#liChargeDetail_7712").ready(function()
+    { 
+    
+    	invoiceTooltip("a.invoiceChnlTrig");
+
+   
+    });
+
+</script>
+
+<div id="invLineItem_9331" class="invLineItem">
+				
+	<table border="0" cellpadding="0" cellspacing="0" width="640">
+		<tr>
+			<td valign="top" width="62">
+				<img src="http://dev.opm.com/resources/images/x.gif" class="invLIImg" id="invLIImg_9331" alt="invImgPlaceHolder" width="62" height="62" />
+				
+				
+			
+			</td>
+			<td valign="top" class="invLiProdText">
+				<a href="http://opm.bravadousa.com:8888/products/view/9331" target="_blank">Black Tide - Mirrored Death - T-Shirts</a>
+			
+				<div class="liChargeDetail" id="liChargeDetail_9331">
+				
+					<table border="0" cellpadding="0" cellspacing="0" width="380">
+					
+												
+							<tr>
+																
+									<td width="260">Printing</a></td>
+								
+																
+								<td align="right">&#36;35356654.00</td>
+								
+								<td align="right">
+								
+																		
+										<span id="invChannel_46">
+											
+																				
+																							
+													<a href="#" onclick="return false;" class="invoiceChnlTrig" id="46">chnl</a>
+											
+																					
+																				
+										</span>
+									
+																		
+								</td>
+								
+							</tr>
+						
+						
+					</table>
+					
+				
+				</div>
+			
+			</td>
+			<td valign="top" align="right" class="invLiProdText">&#36;35,356,654.00<br />
+				
+								
+			</td>
+		</tr>
+	</table>
+
+
+</div>
+
+<div class="invoiceDiv"></div>
+
+<div id="invoiceImgTooltip_9331" class="invoiceImgTooltip">
+				
+	<img src="http://dev.opm.com/resources/images/x.gif" class="invoiceTooltipImg" width="350" height="350" />
+
+</div>
+
+<script language="javascript">
+
+	$("#invLIImg_9331").ready(function()
+    { 
+       
+		$("#invLIImg_9331").tooltip({
+
+			// use div.tooltip as our tooltip
+			tip: '#invoiceImgTooltip_9331',
+			
+			position: 'center right',
+			
+			effect: 'fade'
+
+
+	
+		});
+
+   
+    });
+
+    
+    $("#liChargeDetail_9331").ready(function()
+    { 
+    
+    	invoiceTooltip("a.invoiceChnlTrig");
+
+   
+    });
+
+</script>
+
+
+<div style="float:right; font-family:Lucida Grande; font-size:16pt; margin-right:38px; margin-bottom:20px; margin-top:20px;">TOTAL: &#36;999,999.99</div>
+			
+<div style="clear:both;"></div></div>
+					
+					
+				
+				</div>
+				
+				<br /><br />
+				
+							
+			
+				<div id="invoiceNoteArea">
+				
+					<div id="notes">
+						
+		
+		<table border="0" style="margin-left:20px; margin-right:20px; margin-top:10px;">
+						
+			<tr>
+				<td valign="top"><img src="http://opm.bravadousa.com:8888/resources/images/avatars/person_avatar.gif" class="avatarImage" style="margin-left:15px;"></td>
+				<td valign="top">
+					<div class="prodSummaryForumHeader">Posted 02/28/11 by Nicole Militello</div>
+					<!--<div class="prodSummaryForumTitle">Lookin good boss</div>-->
+					<div class="prodSummaryForumPost" style="margin-top:10px;">finally!</div>
+				</td>
+			</tr>
+			
+		</table>
+		
+		<br />
+		
+		<div class="invoiceCommentDiv"></div>
+		
+					</div>
+				
+				
+				</div>
+				
+				<div style="" class="invBillTo">Bill To: Bravado International Group 245 5th Ave. 8th Floor NY, NY 10016<br />Attention: <br />Terms: NET 30 DAYS</div>
+			
+			
+						
+		</td>
+	
+	</tr>
+	
+</table>
+
+<br />
+
+
+</form>
+
+
+	<form name="invoiceActionsForm" method="post" action="http://opm.bravadousa.com:8888/invoices/approveForward">
+		
+		<input type="hidden" name="invoiceid" value="16" />
+	
+		
+	<br />
+	
+		
+	</form>
+
+
+
+<pre>
+	</pre>
+
+
+
+	</div>
+				
+								
+			</div>
+			
+		</div>
+		
+	</body>
+</html>

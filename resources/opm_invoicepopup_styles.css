@@ -1,0 +1,73 @@
+BODY {
+
+	color:#232323;
+	background-color:#ffffff;
+	font-family: "Lucida Grande";
+
+}
+
+#container {
+
+	margin-left:20px;
+	margin-right:30px;
+
+}
+
+.invoicePopLabel {
+	
+	color:#fe0000;
+	font-size:11pt;
+	margin-top:10px;
+	margin-bottom:10px;
+
+
+}
+
+.invoicePopField {
+
+	font-family: "Lucida Grande";
+
+}
+
+.invoicePopBtn {
+	
+	font-family: "Lucida Grande";
+	font-size:11pt;
+	
+}
+
+select.invoicePopField {
+
+	width:427px;
+	font-size:11pt;
+	background-color:#ffffff;
+	border: solid 1px #cccccc;
+
+}
+
+
+textarea.invoicePopField {
+
+	width:427px;
+	height:160px;
+	
+}
+
+input.invoicePopField {
+
+	width:427px;
+	
+}
+
+div.invoicePopBtn {
+	
+	margin-top:10px;
+	text-align:right;
+
+}
+
+.invAjaxImage {
+
+	
+
+}

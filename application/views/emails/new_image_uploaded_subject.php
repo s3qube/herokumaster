@@ -1,0 +1,1 @@
+<?= $username ?> uploaded <?= $imageInfo['filename'] ?> to <?= $productInfo->property ?> - <?= $productInfo->productname ?>

@@ -1,0 +1,3 @@
+<? // This is for dynamically loading the available dimensions for each img in the image viewer. ?>
+
+View Size: <a href="<?= base_url() ?>/imageclass/imageViewer/<?=$imageid?>/500" onClick="window.parent.Shadowbox.adjustDims(530,530);" style="color:#cccccc;">500</a><? if ($imageActualSize > 500) { ?> | <a href="<?= base_url() ?>/imageclass/imageViewer/<?=$imageid?>/800" onClick="window.parent.Shadowbox.adjustDims(830,830);" style="color:#cccccc;">800</a><? } if ($imageActualSize > 800) { ?> | <a href="<?= base_url() ?>/imageclass/imageViewer/<?=$imageid?>/1100" onClick="window.parent.Shadowbox.adjustDims(1130,1130);" style="color:#cccccc;">1100</a><? } ?>&nbsp;&nbsp;

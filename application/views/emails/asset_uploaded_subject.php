@@ -1,0 +1,1 @@
+<?= $username ?> uploaded <?= $filename ?> (asset) to <?= $productInfo->property ?> - <?= $productInfo->productname ?>

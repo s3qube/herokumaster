@@ -1,0 +1,1 @@
+<?= $username ?> posted a comment to <?= $productInfo->property ?> - <?= $productInfo->productname ?>

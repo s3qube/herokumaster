@@ -1,0 +1,28 @@
+<Invoices><Invoice>
+	<Id>36</Id>
+	<VendorId>TEST</VendorId>
+	<ReferenceNumber>googoo</ReferenceNumber>
+	<UserName>Tim Edgar</UserName>
+	<Currency>USD</Currency>
+	<Total>1200.00</Total>
+	<CreateDate>08/14/2013</CreateDate>
+	<SubmitDate>08/14/2013</SubmitDate>
+	
+	<LineItems>
+	
+					<LineItem>
+				<LineItemId>32</LineItemId>
+				<PropertyCode>4447</PropertyCode>
+				<GlAccount>505103</GlAccount>
+				<OpmProductId>1791</OpmProductId>
+				<ChannelCode>170</ChannelCode>
+				<Property>Test Property</Property>
+				<ProductName>Test Product</ProductName>
+				<Quantity>1</Quantity>
+				<UnitPrice>1200.00</UnitPrice>
+				<Notes></Notes>
+				<ChargeAmount>1200.00</ChargeAmount>
+			</LineItem>
+			
+	</LineItems>
+</Invoice></Invoices>

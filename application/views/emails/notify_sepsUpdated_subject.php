@@ -1,0 +1,1 @@
+Separations have been updated for <?= $product->property ?> - <?= $product->productname ?>

@@ -1,0 +1,55 @@
+<Products>
+<Product>
+	<SKU>44473030001008</SKU>
+	<BodyStyle>T-Shirts</BodyStyle>
+	<ShortName>tpj</ShortName>
+	<ProductName>Test Product</ProductName>
+	<LastModified>01/13/2012</LastModified>
+	<Size>12 MONTHS</Size>
+	<Color>AQUA</Color>
+</Product>
+<Product>
+	<SKU>44473030001009</SKU>
+	<BodyStyle>T-Shirts</BodyStyle>
+	<ShortName>tpj</ShortName>
+	<ProductName>Test Product</ProductName>
+	<LastModified>01/13/2012</LastModified>
+	<Size>Size 14</Size>
+	<Color>AQUA</Color>
+</Product>
+<Product>
+	<SKU>44473030001010</SKU>
+	<BodyStyle>T-Shirts</BodyStyle>
+	<ShortName>tpj</ShortName>
+	<ProductName>Test Product</ProductName>
+	<LastModified>01/13/2012</LastModified>
+	<Size>Size 14/16</Size>
+	<Color>AQUA</Color>
+</Product>
+<Product>
+	<SKU>44473030001011</SKU>
+	<BodyStyle>T-Shirts</BodyStyle>
+	<ShortName>tpj</ShortName>
+	<ProductName>Test Product</ProductName>
+	<LastModified>01/13/2012</LastModified>
+	<Size>Size 16</Size>
+	<Color>AQUA</Color>
+</Product>
+<Product>
+	<SKU>44473030001020</SKU>
+	<BodyStyle>T-Shirts</BodyStyle>
+	<ShortName>tpj</ShortName>
+	<ProductName>Test Product</ProductName>
+	<LastModified>01/13/2012</LastModified>
+	<Size>Size 3/4</Size>
+	<Color>AQUA</Color>
+</Product>
+<Product>
+	<SKU>44473030001052</SKU>
+	<BodyStyle>T-Shirts</BodyStyle>
+	<ShortName>tpj</ShortName>
+	<ProductName>Test Product</ProductName>
+	<LastModified>01/13/2012</LastModified>
+	<Size>2 Extra Small</Size>
+	<Color>AQUA</Color>
+</Product></Products>

@@ -1,0 +1,39 @@
+<Invoices><Invoice>
+	<Id>22</Id>
+	<VendorId>7577</VendorId>
+	<ReferenceNumber>guav666</ReferenceNumber>
+	<UserName>Justin 'Guav' Gauvin</UserName>
+	<Currency>USD</Currency>
+	<Total>12299.00</Total>
+	<CreateDate>04/23/2012</CreateDate>
+	<SubmitDate>04/23/2012</SubmitDate>
+	
+	<LineItems>
+	
+					<LineItem>
+				<LineItemId>30</LineItemId>
+				<PropertyCode>4447</PropertyCode>
+				<OpmProductId>1791</OpmProductId>
+				<ChannelCode>100</ChannelCode>
+				<Property>Test Property</Property>
+				<ProductName>Test Product</ProductName>
+				<Quantity>1</Quantity>
+				<UnitPrice>2300.00</UnitPrice>
+				<Notes></Notes>
+				<ChargeAmount>2300.00</ChargeAmount>
+			</LineItem>
+					<LineItem>
+				<LineItemId>31</LineItemId>
+				<PropertyCode>4447</PropertyCode>
+				<OpmProductId>1791</OpmProductId>
+				<ChannelCode>200</ChannelCode>
+				<Property>Test Property</Property>
+				<ProductName>Test Product</ProductName>
+				<Quantity>1</Quantity>
+				<UnitPrice>9999.00</UnitPrice>
+				<Notes></Notes>
+				<ChargeAmount>9999.00</ChargeAmount>
+			</LineItem>
+			
+	</LineItems>
+</Invoice></Invoices>

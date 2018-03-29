@@ -1,0 +1,56 @@
+<Invoices><Invoice>
+	<Id>19</Id>
+	<VendorId>876</VendorId>
+	<ReferenceNumber>CC_01212</ReferenceNumber>
+	<UserName>Chris Church</UserName>
+	<Currency>GBP</Currency>
+	<Total>4581.00</Total>
+	<CreateDate>12/05/2011</CreateDate>
+	<SubmitDate>01/03/2012</SubmitDate>
+	
+	<LineItems>
+	
+					<LineItem>
+				<LineItemId>19</LineItemId>
+				<PropertyCode>4447</PropertyCode>
+				<GlAccount>505105</GlAccount>
+				<OpmProductId>1791</OpmProductId>
+				<ChannelCode>700</ChannelCode>
+				<Property>Test Property</Property>
+				<ProductName>Test Product</ProductName>
+				<Quantity>1</Quantity>
+				<UnitPrice>1200.00</UnitPrice>
+				<Notes>Radio Gaga
+Radio GooGoo
+Radio Gaga</Notes>
+				<ChargeAmount>1200.00</ChargeAmount>
+			</LineItem>
+					<LineItem>
+				<LineItemId>20</LineItemId>
+				<PropertyCode>3051</PropertyCode>
+				<GlAccount>505105</GlAccount>
+				<OpmProductId>15896</OpmProductId>
+				<ChannelCode>100</ChannelCode>
+				<Property>Lady GaGa</Property>
+				<ProductName>Disco Girl SS T</ProductName>
+				<Quantity>1</Quantity>
+				<UnitPrice>3131.00</UnitPrice>
+				<Notes></Notes>
+				<ChargeAmount>3131.00</ChargeAmount>
+			</LineItem>
+					<LineItem>
+				<LineItemId>21</LineItemId>
+				<PropertyCode>3051</PropertyCode>
+				<GlAccount>505105</GlAccount>
+				<OpmProductId>15896</OpmProductId>
+				<ChannelCode>91</ChannelCode>
+				<Property>Lady GaGa</Property>
+				<ProductName>Disco Girl SS T</ProductName>
+				<Quantity>1</Quantity>
+				<UnitPrice>250.00</UnitPrice>
+				<Notes></Notes>
+				<ChargeAmount>250.00</ChargeAmount>
+			</LineItem>
+			
+	</LineItems>
+</Invoice></Invoices>
